@@ -1,0 +1,430 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Downloads Manager</title>	
+	<link href="/css/font.css" rel="stylesheet" type="text/css">
+	<link href="/css/bootstrap.css" rel="stylesheet" media="screen"/>
+	<link href="/css/flat-ui.css"  rel="stylesheet" media="screen"/>
+	
+	<link rel="stylesheet" href="css/jqx.base.css">
+	<link rel="stylesheet" href="css/jqx.classic.css">
+	<link rel="stylesheet" href="css/downloads.css">
+	
+	<script src="jquery.js" type="text/javascript"></script>
+	<script src="jqxcore.js" type="text/javascript"></script>
+	<script src="jqxswitchbutton.js" type="text/javascript"></script>
+	<script src="downloads.js" type="text/javascript"></script>
+</head>
+<body>
+	<div class="row pageContent">
+		<div class="span2 sidebar">
+			<div class="row-fluid">
+				<div class = "span5">
+				<img src="icon128.png" style="width:64px; margin-left:1px;"/>
+
+				</div>
+				<div class = "span6">
+					<p style = "font-size:14px; margin-top:8px; margin-left:-5px;">Downloads Manager</p>
+				</div>
+			</div>
+
+			<div class="row-fluid menu">
+				<div class="row-fluid menuItem selected" data-tab="settingsTab">
+					<p>Settings</p>
+				</div>
+				<div class="row-fluid menuItem" data-tab="helpTab">
+					<p>Help</p>
+				</div>
+				<div class="row-fluid menuItem" data-tab="historyTab">
+					<p>History</p>
+				</div>
+			</div>
+		</div>
+		<div class="span10">
+			<div id="settingsTab" class="tab activeTab">
+				<div class="row-fluid title-bar">
+					<div class="span7">
+						<h4> Settings </h4>
+					</div>
+					<div class="span3">
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fdownloads-manager-beta%2Fdaoidaoebhfcgccdpgjjcbdginkofmfe%3Futm_source%3Dchrome-ntp-icon&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=21&amp;appId=119643698141744" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>
+						<!-- <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Ffruumo&amp;send=false&amp;layout=button_count&amp;width=71&amp;show_faces=true&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=145530605619289" scrolling="no" frameborder="0" style="margin-left:20px;border:none; overflow:hidden; width:90px; height:30px; top:6px; position:relative;" allowtransparency="true"></iframe> -->
+					</div>
+				</div>
+				<div class="row-fluid"  id="settings">
+					<div class = "row-fluid setting">
+						<div class = "row-fluid">
+							<div class = "span6">
+								<p style = "font-size:18px;">Chrome Downloads Bar</p>
+							</div>
+							 <div class = "span6 right">
+							 	<div id="downloadBar"></div>
+							 </div>
+						</div>
+					</div>
+					<div class = "row-fluid setting">
+						<div class = "row-fluid">
+							<div class = "span6">
+								<p style = "font-size:18px;">Download Completion Notifications</p>
+							</div>
+							 <div class = "span6 right">
+							 	<div id="notification"></div>
+							 </div>
+						</div>
+					</div>
+					<div class = "row-fluid setting">
+						<div class = "row-fluid">
+							<div class = "span6">
+								<p style = "font-size:18px;">Download Start Animation</p>
+							</div>
+							 <div class = "span6 right">
+							 	<div id="animation"></div>
+							 </div>
+						</div>
+					</div>
+ 					<div class = "row-fluid setting">
+						<div class = "row-fluid">
+							<div class = "span12">
+								<p style = "font-size:18px;">On Notification Click, Do</p>
+							</div>
+						</div>
+						<div class = "row-fluid">
+							<div class = "span11 offset1">
+								<p><input id="open-file" name= "download-preview" type="radio"> Open File</p>
+								<p><input id="open-folder" name ="download-preview" type="radio"> Show File In Folder</p>
+							</div>
+						</div>
+					</div>
+					<div class = "row-fluid setting">
+						<div class = "row-fluid">
+							<div class = "span12">
+								<p style = "font-size:18px;">Chrome Theme</p>
+							</div>
+						</div>
+						<div class = "row-fluid">
+							<div class = "span11 offset1">
+								<p><input id="dark" name= "theme" type="radio"> Dark</p>
+								<p><input id="light" name ="theme" type="radio"> Light</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		<div id="helpTab" class="tab">
+			<div class="row-fluid title-bar">
+				<div class="span7">
+					<h4> Help </h4>
+				</div>
+			</div>
+			<div class="row-fluid"  id="help">
+				<div class = "row-fluid setting">
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;">Keyboard Shortcuts</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p><a id="mShort">Set this Shortcut</a></p>
+						</div>
+						<div class = "span8 ">
+							<p>Open PopUp</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p>Esc</p>
+						</div>
+						<div class = "span8 ">
+							<p>Close PopUp</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p>Up/Down</p>
+						</div>
+						<div class = "span8 ">
+							<p>Select Items in the download List/Select Options in the Right Click Menu</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p>Enter</p>
+						</div>
+						<div class = "span8 ">
+							<p>Open Selected Item/perform operation on selected right click menu option</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p>Ctrl+Enter</p>
+						</div>
+						<div class = "span8 ">
+							<p>Opens Right click menu for selected item</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p>Tab</p>
+						</div>
+						<div class = "span8 ">
+							<p>To navigate options at the top (clear all, open download folder, settings)</p>
+						</div>
+					</div>
+				</div>
+				<div class = "row-fluid setting">
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;">Settings</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p>Chrome Downloads Bar</p>
+						</div>
+						<div class = "span8 ">
+							<p>Off means download bar is disabled.</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p>Download Completion Notification</p>
+						</div>
+						<div class = "span8 ">
+							<p>On means notifications are enabled when download completes</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p>On Notification Click, Do</p>
+						</div>
+						<div class = "span8 ">
+							<p>select what u want to do when u click on notification</p>
+						</div>
+					</div>
+				</div>
+				<div class = "row-fluid setting">
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;">Options</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p>Clear Failed</p>
+						</div>
+						<div class = "span8 ">
+							<p>This Option will clear all downloads that eighter failed due to network error or cancelled by the user</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p>Clear Deleted</p>
+						</div>
+						<div class = "span8 ">
+							<p>This Option will clear all downloads whom files have been deleted form disk</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p>Clear Completed</p>
+						</div>
+						<div class = "span8 ">
+							<p>This Option will clear all downloads which are successfully completed (be it on the disk or not). This doesn't clear cancelled downloads</p>
+						</div>
+					</div>
+				</div>
+				<div class = "row-fluid setting">
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;">What More?</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span11 offset1">
+							<p>Right click on an item to access options.</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span11 offset1">
+							<p>Download Items are dragable. You drag and drop the item to apropriate Application to open it.</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span11 offset1">
+							<p>when you search and then click <u>Erase all visible downloads</u> it removes only items in the search results. That means you can filter items to clear. :-) </p>
+						</div>
+					</div>
+				</div>
+				<div class = "row-fluid setting">
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;">What Next?</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span11 offset1">
+							<p>Advance Searching capability (search based on size, date, item's state, etc.).</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span11 offset1">
+							<p>Batch operations on downloads</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span11 offset1">
+							<p>Filters on downloads</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span11 offset1">
+							<p>Download statistics</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span11 offset1">
+							<p>Many more other features. Just hold on to it.</p>
+						</div>
+					</div>
+				</div>
+				<div class = "row-fluid setting">
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;">Have a Bug to Report or want to see some feature added?</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span11 offset1">
+							<p><a target="_blank" href="https://chrome.google.com/webstore/support/daoidaoebhfcgccdpgjjcbdginkofmfe?hl=en&gl=IN#bug">Go for It</a></p>
+						</div>
+					</div>
+				</div>
+				<div class = "row-fluid setting">
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;">Do Not Forget</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span11 offset1">
+							<p><a target="_blank" href="https://chrome.google.com/webstore/detail/downloads-manager-beta/daoidaoebhfcgccdpgjjcbdginkofmfe?	utm_source=chrome-ntp-icon">Rate and Share</a></p>
+						</div>
+					</div>
+				</div>
+				<div class = "row-fluid setting">
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;"></p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;"></p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span11 offset1">
+							<p>Note======> This Extension has noting to do with your download speed. People keep on uninstalling this extension (i wonder if they think this is the reason). It does not make your download slow or fast(no one can). Chrome downloads your files, this extension only shows the information (speed, how much downloaded, etc.) (if u don't believe try disabling and enabling it during download, trust me it won't drop your download). If u are using some other extension or software to boost your speed, this extension does not interfere.</p>
+							<p>Please do write the suggestions or problems before uninstalling. This can help me big deal than trying to figure out all by myself</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;"></p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;"></p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;"></p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;"></p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;"></p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+
+		<div id="historyTab" class="tab">
+			<div class="row-fluid title-bar">
+				<div class="span7">
+					<h4> Extension Version History </h4>
+				</div>
+			</div>
+			<div class="row-fluid"  id="help">
+				<div class = "row-fluid setting">
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;">v 4.3</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p>Fixed</p>
+						</div>
+						<div class = "span8 ">
+							<p>Undefineds in download list</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p>New</p>
+						</div>
+						<div class = "span8 ">
+							<p>Clear deleted, completed and failed downloads</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p></p>
+						</div>
+						<div class = "span8 ">
+							<p>Option to disable download starting animation</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p></p>
+						</div>
+						<div class = "span8 ">
+							<p>Choose theme dark/light according to your chrome theme</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span3 offset1">
+							<p></p>
+						</div>
+						<div class = "span8 ">
+							<p>added button in pop up to directly go to chrome://downloads</p>
+						</div>
+					</div>
+					
+				</div>
+				
+		</div>
+	</div>
+</div>
+</body>
+</html>

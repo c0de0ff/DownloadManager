@@ -1,0 +1,1 @@
+This is a chrome Extension which is extended originally from chrome sample download manager (demo for the download API). The extension is available in chrome webstore for free at https://chrome.google.com/webstore/detail/downloads-manager-beta/daoidaoebhfcgccdpgjjcbdginkofmfe?utm_source=chrome-ntp-icon

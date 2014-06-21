@@ -1,0 +1,36 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "indicator.js" ],
+      "matches": [ "<all_urls>"]
+   },
+
+	{
+      "js": [ "jquery.js" ],
+      "matches": [ "http://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "browser_action": {
+      "default_icon": {
+         "19": "icon19.png",
+         "38": "icon38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_extName__"
+   },
+   "default_locale": "en",
+   "description": "Firefox like Download manager for chrome",
+   "icons": {
+      "128": "icon128.png"
+   },
+   "offline_enabled": true,
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "optional_permissions": [ "management" ],
+   "permissions": [ "downloads", "downloads.open","downloads.shelf","clipboardWrite","clipboardRead","notifications","activeTab"],
+  "web_accessible_resources": [ "icons/startd.png","icons/startdr.png"],
+   "version": "5.1"
+}

@@ -1,0 +1,438 @@
+{
+   "badChromeVersion": {
+      "description": "",
+      "message": "The downloads API is only available on dev and beta channels. Update your chrome here."
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "Cancel"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "Clear All Visible Downloads"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "Clear All Completed Downloads"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "Clear All Deleted Downloads"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "Clear All Failed Downloads"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "Clear from List"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "Removed"
+   },
+   "error_1": {
+      "description": "",
+      "message": "File Failed"
+   },
+   "error_10": {
+      "description": "",
+      "message": "Transient File-System Error"
+   },
+   "error_11": {
+      "description": "",
+      "message": "File Blocked"
+   },
+   "error_12": {
+      "description": "",
+      "message": "Security Check Failed"
+   },
+   "error_13": {
+      "description": "",
+      "message": "File Too Short"
+   },
+   "error_2": {
+      "description": "",
+      "message": "File-System Access Denied"
+   },
+   "error_20": {
+      "description": "",
+      "message": "Network Failure"
+   },
+   "error_21": {
+      "description": "",
+      "message": "Network Timeout"
+   },
+   "error_22": {
+      "description": "",
+      "message": "Network Disconnected"
+   },
+   "error_23": {
+      "description": "",
+      "message": "Server Down"
+   },
+   "error_3": {
+      "description": "",
+      "message": "No Space On Disk"
+   },
+   "error_30": {
+      "description": "",
+      "message": "Server Failure"
+   },
+   "error_31": {
+      "description": "",
+      "message": "Server No Range"
+   },
+   "error_32": {
+      "description": "",
+      "message": "Server Precondition Failure"
+   },
+   "error_33": {
+      "description": "",
+      "message": "Bad Content"
+   },
+   "error_40": {
+      "description": "",
+      "message": "Cancelled"
+   },
+   "error_41": {
+      "description": "",
+      "message": "Cancelled"
+   },
+   "error_5": {
+      "description": "",
+      "message": "Filename Too Long"
+   },
+   "error_50": {
+      "description": "",
+      "message": "Crash"
+   },
+   "error_6": {
+      "description": "",
+      "message": "File Too Large"
+   },
+   "error_7": {
+      "description": "",
+      "message": "Virus Infected"
+   },
+   "error_CRASH": {
+      "description": "",
+      "message": "Crash"
+   },
+   "error_FILE_ACCESS_DENIED": {
+      "description": "",
+      "message": "File-System Access Denied"
+   },
+   "error_FILE_BLOCKED": {
+      "description": "",
+      "message": "File Blocked"
+   },
+   "error_FILE_FAILED": {
+      "description": "",
+      "message": "File Failed"
+   },
+   "error_FILE_NAME_TOO_LONG": {
+      "description": "",
+      "message": "Filename Too Long"
+   },
+   "error_FILE_NO_SPACE": {
+      "description": "",
+      "message": "No Space On Disk"
+   },
+   "error_FILE_SECURITY_CHECK_FAILED": {
+      "description": "",
+      "message": "Security Check Failed"
+   },
+   "error_FILE_TOO_LARGE": {
+      "description": "",
+      "message": "File Too Large"
+   },
+   "error_FILE_TOO_SHORT": {
+      "description": "",
+      "message": "File Too Short"
+   },
+   "error_FILE_TRANSIENT_ERROR": {
+      "description": "",
+      "message": "Transient File-System Error"
+   },
+   "error_FILE_VIRUS_INFECTED": {
+      "description": "",
+      "message": "Virus Infected"
+   },
+   "error_NETWORK_DISCONNECTED": {
+      "description": "",
+      "message": "Network Disconnected"
+   },
+   "error_NETWORK_FAILED": {
+      "description": "",
+      "message": "Network Failure"
+   },
+   "error_NETWORK_SERVER_DOWN": {
+      "description": "",
+      "message": "Server Down"
+   },
+   "error_NETWORK_TIMEOUT": {
+      "description": "",
+      "message": "Network Timeout"
+   },
+   "error_SERVER_BAD_CONTENT": {
+      "description": "",
+      "message": "Bad Content"
+   },
+   "error_SERVER_FAILED": {
+      "description": "",
+      "message": "Server Failure"
+   },
+   "error_SERVER_NO_RANGE": {
+      "description": "",
+      "message": "Server No Range"
+   },
+   "error_SERVER_PRECONDITION": {
+      "description": "",
+      "message": "Server Precondition Failure"
+   },
+   "error_USER_CANCELED": {
+      "description": "",
+      "message": "Cancelled"
+   },
+   "error_USER_SHUTDOWN": {
+      "description": "",
+      "message": "Cancelled"
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Download Manager User Interface for Google Chrome"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Downloads Manager beta"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "Show links to extensions that download files."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "Loading Older Downloads..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "Some files were downloaded by an extension."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "Jan"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "Nov"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "Dec"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "Feb"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "Mar"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "Apr"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "May"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "Jun"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "Jul"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "Aug"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "Sep"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "Oct"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "Open Downloads Folder"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "Open"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "Opening in $days$d $hours$h",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "Opening in just a moment"
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "Opening in $hours$h $mins$m",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "Opening in $mins$m $sec$s",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": "  Opening in $sec$s",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "Pause"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "Referrer"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "Remove file"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "Resume"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "Retry"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "Search..."
+   },
+   "searching": {
+      "description": "",
+      "message": "Teleporting lots of goats..."
+   },
+   "showInFolderTitle": {
+      "description": "Alt text for show in folder icon",
+      "message": "Show in Folder"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "Show Older Downloads"
+   },
+   "tabTitle": {
+      "description": "tab title",
+      "message": "Downloads"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "$days$d $hours$h left",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "finishing..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "$hours$h $mins$m left",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "$mins$m $sec$s left",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "$sec$s left",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "There are zero download items."
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "Zero matches"
+   }
+}

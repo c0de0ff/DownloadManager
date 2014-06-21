@@ -1,0 +1,185 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title></title>
+ 
+<script src="jquery.js"></script>
+<script src="jquery.contextMenu.js"></script>
+<script src="jquery.ui.position.js"></script>
+ <script src="popup.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+   <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="css/jquery.contextMenu.css">
+  <link rel="icon" href="icon19.png">
+</head>
+<body>
+	<!-- <div id="fb-root"></div> -->
+  <div class="topbar"><i class="logo fa fa-download"></i><span>Downloads</span></div>
+  <div class="navigation">
+    <ul class="sidebar-menu">
+      <li class="active">
+        <a href="index.html">
+            <i class="fa fa-download"></i> <span>Downloads</span>
+        </a>
+      </li>
+      <li>
+          <a href="pages/widgets.html">
+              <i class="fa fa-cogs"></i> <span>Settings</span> 
+          </a>
+      </li>
+      <li>
+          <a href="pages/widgets.html">
+              <i class="fa fa-question"></i> <span>Help</span> 
+          </a>
+      </li>
+      <li>
+          <a href="pages/widgets.html">
+              <i class="fa fa-info-circle"></i> <span>About</span> 
+          </a>
+      </li>
+    </ul>
+  </div>
+<div  class="primary-border download-holder" id="outer">
+
+  <div id="head">
+    <a id="bad-chrome-version" hidden
+        href="https://www.google.com/intl/en/chrome/browser/beta.html"></a>
+    
+    <div id="q-outer">
+	   <div class="search_icon">
+			<img class="top_icon" src="icons/search.png">
+		</div>
+		<div class="search_bar">
+			<input type="search" class="search" id="q" incremental="" placeholder="Search..."><br>&nbsp;
+		</div>
+	</div>
+
+    <div class="top_option">
+<a href="#" id="options-open">
+	<img class="options_icon" src="icons/options.png"></img>
+</a>
+	</div>
+<span id="empty" hidden></span>
+  </div>
+
+  <div id="searching" hidden></div>
+  <div id="search-zero" hidden></div>
+  <div id="items"></div>
+  <div class="older mybtn" id="older"></div>
+  <span id="loading-older" hidden></span>
+  <div id="request-management-permission" hidden><div
+      id="management-permission-info"></div>
+    <a href="#" id="grant-management-permission"></a>
+  </div>
+</div>
+
+<div class="item" draggable="true" hidden>
+
+  <div class="wrapper_top">
+  <img class="icon" src="icon38.png">
+
+  <div class="more" hidden>
+    <span class="more-left">
+      <div class="start-time1"></div>
+      <div class="complete-size1"></div>
+    </span>    
+    <a href="#" class="by-ext"><img /></a>
+  </div>
+  
+ 
+
+<div class="wrapper"> 
+  <span class="file-url">
+    <div class="file-url-head">
+      <span class="removed"></span>
+      <a href="#" class="open-filename"></a>
+	  
+    </div>
+
+	<div class="second">
+	<span id="size" class="complete-size"></span>
+	<span class="dash"> &nbsp;&nbsp;    </span>
+	<span class="ref"></span>
+	<span class="dash">  </span>
+	<span id="time" class="start-time"></span>
+	
+      
+      <span class="in-progress">
+        <span class="myprogress"></span>
+		<span class="speed"></span>
+		<span class="dash">  &nbsp;  </span>
+        <span class="time-left"></span>
+      </span>
+    
+	</div>
+
+  </span>
+   <div class="info" >  
+   <div class="r_info" hidden>
+  <a href="#" class="referrer btn"></a>
+  <a href="#" class="show-folder btn"></a>
+  <span class="remove-file "></span>
+  <span class="erase "></span>
+  <span class="url " download=""></span>
+  <!--<a href="#" class="remove-file btn"></a>
+  <a href="#" class="erase btn"></img></a>
+  <a href="#" class="url btn" download=""></img></a>-->
+  </div>
+</div>  
+  </div>
+  </div>
+  <div class="mycheckbox"><input type="checkbox"></div>
+ <div class="progress1">
+       <div class="meter"><span /></div>
+		<div class="pro">
+			<a href="#" class="pause"><i class="icon-pause"></i></a>
+			<a href="#" class="resume"><i class="icon-play"></i></a>
+			<!--<a href="#" class="cancel"><img class="progress_control" src="icons/cancel.png"></img></a>-->
+			<a href="#" class="cancel"><i class="icon-remove"></i></a>
+			
+	
+		</div>
+    </div>
+    <div class="item-option">
+  		<div class="right">
+  			<a href="#" class="option11"><i class="fa fa-folder-open"></i> open in folder</a>
+  			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  			<a href="#" class="option11"><i class="fa fa-trash-o"></i> clear</a>
+  			
+  		</div>
+		
+    </div>
+	
+</div>
+<div class="options" id="options-pane">
+<!-- user-menu pull-right dropdown-menu dropdown-yellow dropdown-caret dropdown-close-->
+		<ul  class="dropdown-menu">
+								<li>
+									<a href="#" id="open-folder">
+										<i class="icon-folder-open"></i>
+										Downloads Folder 
+									</a>
+								</li>
+
+								<li>
+									<a href="#" id="clear-all">
+										<i class="icon-trash"></i>
+										Clear All
+									</a>
+								</li>
+
+								<li class="divider"></li>
+
+								<li>
+									<a href="downloads.html" target="_blank" id="help">
+										<i class="icon-cog"></i>
+										Settings
+									</a>
+								</li>
+							</ul>
+		
+</div>
+<span id="text-width-probe"></span>
+</body>
+</html>
