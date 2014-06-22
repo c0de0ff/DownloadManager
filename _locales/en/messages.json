@@ -205,7 +205,7 @@
    },
    "extName": {
       "description": "Extension name",
-      "message": "Downloads Manager beta"
+      "message": "Download Manager"
    },
    "grantManagementPermission": {
       "description": "",

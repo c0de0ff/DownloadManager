@@ -22,7 +22,7 @@
       "default_title": "__MSG_extName__"
    },
    "default_locale": "en",
-   "description": "Firefox like Download manager for chrome",
+   "description": "Manage and interact with your downloads in quick and easy way",
    "icons": {
       "128": "icon128.png"
    },
@@ -32,5 +32,5 @@
    "optional_permissions": [ "management" ],
    "permissions": [ "downloads", "downloads.open","downloads.shelf","clipboardWrite","clipboardRead","notifications","activeTab"],
   "web_accessible_resources": [ "icons/startd.png","icons/startdr.png"],
-   "version": "5.1"
+   "version": "5.2"
 }
