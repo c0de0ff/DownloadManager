@@ -16,9 +16,9 @@
 }
 
 .file-url-head {
-    color: #333;
+    color: #444;
     font-size: 15px;
-    font-weight: 600;
+    font-weight: normal;
 }
 
 .file-url {
@@ -42,24 +42,14 @@ body {
     width: 400px;
     min-height: 250px;
     background-color: #fff;
-/* margin-bottom:2px; */
-    font-family: sans-serif;
-    font-weight: 500;
 }
 
 .older {
-/* background-color:#f4f6f9; */
-    
-/* margin-left: -10px; */
-    
-/* margin-right: -10px; */
-    
-/* margin-bottom: -20px; */
 line-height:41px;
 cursor:pointer;
 height: 41px;
     text-align: center;
-    
+  
 font-size: 14px;
     
 /* padding-top: 13px; */
@@ -72,7 +62,7 @@ width: 100%;
 
 a {
     text-decoration: none;
-    color: #262626;
+    color: #444;
 }
 
 #q-outer {
