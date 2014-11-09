@@ -1,119 +1,119 @@
-{
+﻿{
    "badChromeVersion": {
       "description": "",
       "message": "The downloads API is only available on dev and beta channels. Update your chrome here."
    },
    "contextMenuOpen": {
       "description": "",
-      "message": "Open"
+      "message": "открыт"
    },
    "contextMenuOpenFolder": {
       "description": "",
-      "message": "Open Containing Folder"
+      "message": "открыт в папку"
    },
    "contextMenuGoToDownloadPage": {
       "description": "",
-      "message": "Go To Download Page"
+      "message": "Перейти по ссылке"
    },
    "contextMenuDownloadLink": {
       "description": "",
-      "message": "Copy Download Link"
+      "message": "копия ссылка"
    },
    "contextMenuDeleteFromDisk": {
       "description": "",
-      "message": "Delete From Disk"
+      "message": "Удалить с диска"
    },
    "contextMenuRemoveFromList": {
       "description": "",
-      "message": "Remove From List"
+      "message": "Удалить из списка"
    },
    "AllDownloadsTitle": {
       "description": "",
-      "message": "All Downloads"
+      "message": "Все Загрузки"
    },
    "optionsTitle": {
       "description": "",
-      "message": "Options"
+      "message": "опции"
    },
    "cancelTitle": {
       "description": "",
-      "message": "Cancel"
+      "message": "отменить"
    },
    "clearAllTitle": {
       "description": "",
-      "message": "Clear All Visible Downloads"
+      "message": "ясно все видимый Загрузки"
    },
    "clearAllText": {
       "description": "",
-      "message": "Clear All"
+      "message": "Очистить все"
    },
    "clearCompletedTitle": {
       "description": "",
-      "message": "Clear All Completed Downloads"
+      "message": "ясно все Завершен Загрузки"
    },
    "clearCompletedText": {
       "description": "",
-      "message": "Clear Completed"
+      "message": "Ясно завершена"
    },
    "clearDeletedTitle": {
       "description": "",
-      "message": "Clear All Deleted Downloads"
+      "message": "ясно все удаленный Загрузки"
    },
    "clearDeletedText": {
       "description": "",
-      "message": "Clear Deleted"
+      "message": "Ясно Изъято"
    },
    "clearFailedTitle": {
       "description": "",
-      "message": "Clear All Failed Downloads"
+      "message": "ясно все неудавшийся Загрузки"
    },
    "clearFailedText": {
       "description": "",
-      "message": "Clear Failed"
+      "message": "ясн Не удалось"
    },
    "eraseTitle": {
       "description": "",
-      "message": "Clear from List"
+      "message": "ясно из списка"
    },
    "errorRemoved": {
       "description": "",
-      "message": "Removed"
+      "message": "Удалены"
    },
    "error_1": {
       "description": "",
-      "message": "File Failed"
+      "message": "неудавшийся файла"
    },
    "error_10": {
       "description": "",
-      "message": "Transient File-System Error"
+      "message": "Переходные Файловая система ошибка"
    },
    "error_11": {
       "description": "",
-      "message": "File Blocked"
+      "message": "Заблокированные файла"
    },
    "error_12": {
       "description": "",
-      "message": "Security Check Failed"
+      "message": "Проверка безопасности не удалось"
    },
    "error_13": {
       "description": "",
-      "message": "File Too Short"
+      "message": "файла слишком мал"
    },
    "error_2": {
       "description": "",
-      "message": "File-System Access Denied"
+      "message": "Отказано файловой системы доступа"
    },
    "error_20": {
       "description": "",
-      "message": "Network Failure"
+      "message": "Сеть Отказ"
    },
    "error_21": {
       "description": "",
-      "message": "Network Timeout"
+      "message": "Сеть ожидания"
    },
    "error_22": {
       "description": "",
-      "message": "Network Disconnected"
+      "message": "Сеть Отключен"
    },
    "error_23": {
       "description": "",
@@ -249,95 +249,95 @@
    },
    "extDesc": {
       "description": "Extension description",
-      "message": "Manage and interact with your downloads in quick and easy way"
+      "message": "Управление и взаимодействовать с вашей загрузки в быстрый и легкий способ"
    },
    "extName": {
       "description": "Extension name",
-      "message": "Download Manager"
+      "message": "скачать менеджер"
    },
    "grantManagementPermission": {
       "description": "",
-      "message": "Show links to extensions that download files."
+      "message": "Показать ссылки на расширений, которые скачивают файлы"
    },
    "loadingOlderDownloads": {
       "description": "",
-      "message": "Loading Older Downloads..."
+      "message": "погрузка Старые Загрузки ..."
    },
    "managementPermissionInfo": {
       "description": "",
-      "message": "Some files were downloaded by an extension."
+      "message": "Некоторые файлы были загружены с продление."
    },
    "month0abbr": {
       "description": "",
-      "message": "Jan"
+      "message": "янв"
    },
    "month10abbr": {
       "description": "",
-      "message": "Nov"
+      "message": "ноя"
    },
    "month11abbr": {
       "description": "",
-      "message": "Dec"
+      "message": "дек"
    },
    "month1abbr": {
       "description": "",
-      "message": "Feb"
+      "message": "фев"
    },
    "month2abbr": {
       "description": "",
-      "message": "Mar"
+      "message": "март"
    },
    "month3abbr": {
       "description": "",
-      "message": "Apr"
+      "message": "апр"
    },
    "month4abbr": {
       "description": "",
-      "message": "May"
+      "message": "май"
    },
    "month5abbr": {
       "description": "",
-      "message": "Jun"
+      "message": "июнь"
    },
    "month6abbr": {
       "description": "",
-      "message": "Jul"
+      "message": "июль"
    },
    "month7abbr": {
       "description": "",
-      "message": "Aug"
+      "message": "авг"
    },
    "month8abbr": {
       "description": "",
-      "message": "Sep"
+      "message": "сент"
    },
    "month9abbr": {
       "description": "",
-      "message": "Oct"
+      "message": "окт"
    },
    "openDownloadsFolderTitle": {
       "description": "",
-      "message": "Open Downloads Folder"
+      "message": "Открыть загрузок Папка"
    },
    "openDownloadsFolderText": {
       "description": "",
-      "message": "Downloads Folder"
+      "message": "Загрузки Папка"
    },
    "settingsTitle": {
       "description": "",
-      "message": "Settings"
+      "message": "настройки"
    },
    "settingsText": {
       "description": "",
-      "message": "Settings"
+      "message": "настройки"
    },
    "openTitle": {
       "description": "",
-      "message": "Open"
+      "message": "открыт"
    },
    "openWhenCompleteDays": {
       "description": "",
-      "message": "Opening in $days$d $hours$h",
+      "message": "Открытие в $days$d $hours$h",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -351,11 +351,11 @@
    },
    "openWhenCompleteFinishing": {
       "description": "",
-      "message": "Opening in just a moment"
+      "message": "Открытие в мгновение"
    },
    "openWhenCompleteHours": {
       "description": "",
-      "message": "Opening in $hours$h $mins$m",
+      "message": "Открытие в $hours$h $mins$m",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -369,7 +369,7 @@
    },
    "openWhenCompleteMinutes": {
       "description": "",
-      "message": "Opening in $mins$m $sec$s",
+      "message": "Открытие в $mins$m $sec$s",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -383,7 +383,7 @@
    },
    "openWhenCompleteSeconds": {
       "description": "",
-      "message": "  Opening in $sec$s",
+      "message": "Открытие в $sec$s",
       "placeholders": {
          "sec": {
             "content": "$1",
@@ -393,47 +393,47 @@
    },
    "pauseTitle": {
       "description": "",
-      "message": "Pause"
+      "message": "пауза"
    },
    "referrerTitle": {
       "description": "",
-      "message": "Referrer"
+      "message": "ссылающаяся"
    },
    "removeFileTitle": {
       "description": "",
-      "message": "Remove file"
+      "message": "Удалить файл"
    },
    "resumeTitle": {
       "description": "",
-      "message": "Resume"
+      "message": "продолжить"
    },
    "retryTitle": {
       "description": "",
-      "message": "Retry"
+      "message": "снова пробовать"
    },
    "searchPlaceholder": {
       "description": "",
-      "message": "Search..."
+      "message": "поиск..."
    },
    "searching": {
       "description": "",
-      "message": "Teleporting lots of goats..."
+      "message": "Телепортации много коз..."
    },
    "showInFolderTitle": {
-      "description": "Alt text for show in folder icon",
-      "message": "Show in Folder"
+      "description": "",
+      "message": "Показать в папке"
    },
    "showOlderDownloads": {
       "description": "",
-      "message": "Show Older Downloads"
+      "message": "Показать более Загрузки"
    },
    "tabTitle": {
       "description": "tab title",
-      "message": "Downloads"
+      "message": "Загрузки"
    },
    "timeLeftDays": {
       "description": "",
-      "message": "$days$d $hours$h left",
+      "message": "$days$d $hours$h слева",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -447,11 +447,11 @@
    },
    "timeLeftFinishing": {
       "description": "",
-      "message": "finishing..."
+      "message": "отделка..."
    },
    "timeLeftHours": {
       "description": "",
-      "message": "$hours$h $mins$m left",
+      "message": "$hours$h $mins$m слева",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -465,7 +465,7 @@
    },
    "timeLeftMinutes": {
       "description": "",
-      "message": "$mins$m $sec$s left",
+      "message": "$mins$m $sec$s слева",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -479,7 +479,7 @@
    },
    "timeLeftSeconds": {
       "description": "",
-      "message": "$sec$s left",
+      "message": "$sec$s слева",
       "placeholders": {
          "sec": {
             "content": "$1",
@@ -489,10 +489,10 @@
    },
    "zeroItems": {
       "description": "",
-      "message": "There are zero download items."
+      "message": "Есть нулевой загрузить пункты."
    },
    "zeroSearchResults": {
       "description": "",
-      "message": "Zero matches"
+      "message": "Нулевые матчи"
    }
 }

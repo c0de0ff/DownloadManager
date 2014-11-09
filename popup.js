@@ -17,11 +17,21 @@ function loadI18nMessages() {
 
   setProperty('title', 'innerText', 'tabTitle');
   setProperty('#q', 'placeholder', 'searchPlaceholder');
+  setProperty('#all-downloads', 'title', 'AllDownloadsTitle');
+  setProperty('#options-open', 'title', 'optionsTitle');
   setProperty('#clear-all', 'title', 'clearAllTitle');
+  setProperty('#clear-all-text', 'innerText', 'clearAllText');
   setProperty('#clear-completed', 'title', 'clearCompletedTitle');
+  setProperty('#clear-completed-text', 'innerText', 'clearCompletedText');
   setProperty('#clear-failed', 'title', 'clearFailedTitle');
+  setProperty('#clear-failed-text', 'innerText', 'clearFailedText');
   setProperty('#clear-deleted', 'title', 'clearDeletedTitle');
+  setProperty('#clear-deleted-text', 'innerText', 'clearDeletedText');
   setProperty('#open-folder', 'title', 'openDownloadsFolderTitle');
+  setProperty('#open-folder-text', 'innerText', 'openDownloadsFolderText');
+  setProperty('#help', 'title', 'settingsTitle');
+  setProperty('#help-text', 'innerText', 'settingsText');
+  
   setProperty('#empty', 'innerText', 'zeroItems');
   setProperty('#searching', 'innerText', 'searching');
   setProperty('#search-zero', 'innerText', 'zeroSearchResults');
@@ -544,7 +554,6 @@ DownloadItem.prototype.maybeAccept = function() {
       (this.danger == 'safe') ||
       (this.danger == 'accepted') ||
       DownloadItem.prototype.maybeAccept.accepting_danger) {
-	console.log('hi der');
     return;
   }
   DownloadItem.prototype.maybeAccept.accepting_danger = true;
@@ -890,7 +899,7 @@ if (chrome.downloads) {
         },
         items: {
             
-            "open": {name: "Open", callback: function(key, options) {
+            "open": {name: chrome.i18n.getMessage("contextMenuOpen"), callback: function(key, options) {
 							DownloadManager.getItem($(this)[0].id.substr(4)).open();
               window.close();
 							},
@@ -899,7 +908,7 @@ if (chrome.downloads) {
 							return !((item.state != 'interrupted') && item.exists && !item.deleted);
 							}
 		},
-            "folder": {name: "Open Containing Folder", callback: function(key, options) {
+            "folder": {name: chrome.i18n.getMessage("contextMenuOpenFolder"), callback: function(key, options) {
 							DownloadManager.getItem($(this)[0].id.substr(4)).show();
               window.close();
 							},
@@ -910,13 +919,13 @@ if (chrome.downloads) {
 		},
 	    "sep1": "---------",
             
-            "retry": {name: "Go To Download Page", callback: function(key, options) {
+            "retry": {name: chrome.i18n.getMessage("contextMenuGoToDownloadPage"), callback: function(key, options) {
 							chrome.tabs.create({url: DownloadManager.getItem($(this)[0].id.substr(4)).url});
 							}},
-            "copy": {name: "Copy Download link", callback: function(key, options) {
+            "copy": {name: chrome.i18n.getMessage("contextMenuDownloadLink"), callback: function(key, options) {
 							copyTextToClipboard(DownloadManager.getItem($(this)[0].id.substr(4)).url);}},
 	"sep2": "---------",
-	"delete": {name: "Delete From Disk", callback: function(key, options) {
+	"delete": {name: chrome.i18n.getMessage("contextMenuDeleteFromDisk"), callback: function(key, options) {
 							DownloadManager.getItem($(this)[0].id.substr(4)).removeFile();
 							DownloadManager.getItem($(this)[0].id.substr(4)).erase();
 							},
@@ -925,7 +934,7 @@ if (chrome.downloads) {
 							return !((item.state != 'interrupted') && item.exists && !item.deleted);
 							}		
 		},
-	"erase": {name: "Remove From List", callback: function(key, options) {
+	"erase": {name: chrome.i18n.getMessage("contextMenuRemoveFromList"), callback: function(key, options) {
 							DownloadManager.getItem($(this)[0].id.substr(4)).erase();
 							},
 					disabled: function(key, options){
