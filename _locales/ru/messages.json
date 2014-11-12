@@ -5,11 +5,11 @@
    },
    "contextMenuOpen": {
       "description": "",
-      "message": "открыт"
+      "message": "Открыть"
    },
    "contextMenuOpenFolder": {
       "description": "",
-      "message": "открыт в папку"
+      "message": "Расположение файла"
    },
    "contextMenuGoToDownloadPage": {
       "description": "",
@@ -17,7 +17,7 @@
    },
    "contextMenuDownloadLink": {
       "description": "",
-      "message": "копия ссылка"
+      "message": "Копировать ссылку"
    },
    "contextMenuDeleteFromDisk": {
       "description": "",
@@ -253,7 +253,7 @@
    },
    "extName": {
       "description": "Extension name",
-      "message": "скачать менеджер"
+      "message": "Менеджер загрузок"
    },
    "grantManagementPermission": {
       "description": "",
@@ -321,7 +321,7 @@
    },
    "openDownloadsFolderText": {
       "description": "",
-      "message": "Загрузки Папка"
+      "message": "Папка загрузок"
    },
    "settingsTitle": {
       "description": "",
@@ -333,7 +333,7 @@
    },
    "openTitle": {
       "description": "",
-      "message": "открыт"
+      "message": "Открыть"
    },
    "openWhenCompleteDays": {
       "description": "",
