@@ -33,19 +33,19 @@
    },
    "AllDownloadsTitle": {
       "description": "",
-      "message": "Все Загрузки"
+      "message": "Все загрузки"
    },
    "optionsTitle": {
       "description": "",
-      "message": "опции"
+      "message": "Настройеи"
    },
    "cancelTitle": {
       "description": "",
-      "message": "отменить"
+      "message": "Отменить"
    },
    "clearAllTitle": {
       "description": "",
-      "message": "ясно все видимый Загрузки"
+      "message": "Очистить все видимые загрузки"
    },
    "clearAllText": {
       "description": "",
@@ -53,55 +53,55 @@
    },
    "clearCompletedTitle": {
       "description": "",
-      "message": "ясно все Завершен Загрузки"
+      "message": "Очистить все завершенные загрузки"
    },
    "clearCompletedText": {
       "description": "",
-      "message": "Ясно завершена"
+      "message": "Очистка завершена"
    },
    "clearDeletedTitle": {
       "description": "",
-      "message": "ясно все удаленный Загрузки"
+      "message": "Очистить все удаленные загрузки"
    },
    "clearDeletedText": {
       "description": "",
-      "message": "Ясно Изъято"
+      "message": "Очистить удаленные загруки"
    },
    "clearFailedTitle": {
       "description": "",
-      "message": "ясно все неудавшийся Загрузки"
+      "message": "Очистить все неудавшиеся загрузки"
    },
    "clearFailedText": {
       "description": "",
-      "message": "ясн Не удалось"
+      "message": "Очистка не удалась"
    },
    "eraseTitle": {
       "description": "",
-      "message": "ясно из списка"
+      "message": "Очистка из списка"// очистка списка
    },
    "errorRemoved": {
       "description": "",
-      "message": "Удалены"
+      "message": "Удалено"
    },
    "extDesc": {
-      "description": "Extension description",
-      "message": "Управление и взаимодействовать с вашей загрузки в быстрый и легкий способ"
+      "description": "Extension description",// Описание расширения
+      "message": "Легкий и быстрый способ упраления вашими загрузками"
    },
    "extName": {
-      "description": "Extension name",
+      "description": "Extension name", // название расширения
       "message": "Менеджер загрузок"
    },
    "grantManagementPermission": {
       "description": "",
-      "message": "Показать ссылки на расширений, которые скачивают файлы"
+      "message": "Показывать ссылки к загружаемым файлам"
    },
    "loadingOlderDownloads": {
       "description": "",
-      "message": "погрузка Старые Загрузки ..."
+      "message": "Показать старые загрузки"
    },
    "managementPermissionInfo": {
       "description": "",
-      "message": "Некоторые файлы были загружены с продление."
+      "message": "Некоторые файлы были загружены расширением"
    },
    "month0abbr": {
       "description": "",
@@ -153,7 +153,7 @@
    },
    "openDownloadsFolderTitle": {
       "description": "",
-      "message": "Открыть загрузок Папка"
+      "message": "Открыть папку с загрузками"
    },
    "openDownloadsFolderText": {
       "description": "",
@@ -161,11 +161,11 @@
    },
    "settingsTitle": {
       "description": "",
-      "message": "настройки"
+      "message": "Настройки"
    },
    "settingsText": {
       "description": "",
-      "message": "настройки"
+      "message": "Настройки"
    },
    "openTitle": {
       "description": "",
@@ -187,7 +187,7 @@
    },
    "openWhenCompleteFinishing": {
       "description": "",
-      "message": "Открытие в мгновение"
+      "message": "Открыть сейчас"// Открытие в мгновение
    },
    "openWhenCompleteHours": {
       "description": "",
@@ -229,11 +229,11 @@
    },
    "pauseTitle": {
       "description": "",
-      "message": "пауза"
+      "message": "Пауза"
    },
    "referrerTitle": {
       "description": "",
-      "message": "ссылающаяся"
+      "message": "Ссылка"
    },
    "removeFileTitle": {
       "description": "",
@@ -241,19 +241,19 @@
    },
    "resumeTitle": {
       "description": "",
-      "message": "продолжить"
+      "message": "Продолжить"
    },
    "retryTitle": {
       "description": "",
-      "message": "снова пробовать"
+      "message": "Попробовать снова"
    },
    "searchPlaceholder": {
       "description": "",
-      "message": "поиск..."
+      "message": "Поиск..."
    },
    "searching": {
       "description": "",
-      "message": "Телепортации много коз..."
+      "message": "Поиск..."
    },
    "showInFolderTitle": {
       "description": "",
@@ -261,7 +261,7 @@
    },
    "showOlderDownloads": {
       "description": "",
-      "message": "Показать более Загрузки"
+      "message": "Показать старые загрузки"
    },
    "tabTitle": {
       "description": "tab title",
@@ -269,7 +269,7 @@
    },
    "timeLeftDays": {
       "description": "",
-      "message": "$days$d $hours$h слева",
+      "message": "Прошло $days$d $hours$h",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -283,11 +283,11 @@
    },
    "timeLeftFinishing": {
       "description": "",
-      "message": "отделка..."
+      "message": "Окончание..."
    },
    "timeLeftHours": {
       "description": "",
-      "message": "$hours$h $mins$m слева",
+      "message": "Прошло $hours$h $mins$m",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -301,7 +301,7 @@
    },
    "timeLeftMinutes": {
       "description": "",
-      "message": "$mins$m $sec$s слева",
+      "message": "Прошло $mins$m $sec$s",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -315,7 +315,7 @@
    },
    "timeLeftSeconds": {
       "description": "",
-      "message": "$sec$s слева",
+      "message": "Прошло $sec$s",
       "placeholders": {
          "sec": {
             "content": "$1",
@@ -325,10 +325,10 @@
    },
    "zeroItems": {
       "description": "",
-      "message": "Есть нулевой загрузить пункты."
+      "message": "Пусто."
    },
    "zeroSearchResults": {
       "description": "",
-      "message": "Нулевые матчи"
+      "message": "Нет результатов"
    }
 }
