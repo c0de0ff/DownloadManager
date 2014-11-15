@@ -31,14 +31,17 @@
 			</div>
 
 			<div class="row-fluid menu">
-				<div class="row-fluid menuItem selected" data-tab="settingsTab">
+				<div id="settingsMenu" class="row-fluid menuItem selected" data-tab="settingsTab">
 					<p>Settings</p>
 				</div>
-				<div class="row-fluid menuItem" data-tab="helpTab">
+				<div id="helpMenu" class="row-fluid menuItem" data-tab="helpTab">
 					<p>Help</p>
 				</div>
-				<div class="row-fluid menuItem" data-tab="historyTab">
+				<!-- <div class="row-fluid menuItem" data-tab="historyTab">
 					<p>History</p>
+				</div> -->
+				<div id="trMenu" class="row-fluid menuItem" data-tab="trTab">
+					<p>Translate</p>
 				</div>
 			</div>
 		</div>
@@ -460,10 +463,77 @@
 						</div>
 					</div>
 					
+				</div>	
+			</div>
+		</div>
+
+
+		<div id="trTab" class="tab">
+			<div class="row-fluid title-bar">
+				<div class="span7">
+					<h4> Help With Translation </h4>
 				</div>
-				
+			</div>
+			<div class="row-fluid"  id="help">
+				<div class = "row-fluid setting">
+					<div class = "row-fluid">
+						<div class = "span12">
+							<p style = "font-size:18px;">Here is how you can help with better translation of this extension into your language.</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span1 offset1">
+							<p>Step 1:</p>
+						</div>
+						<div style = "font-size:16px;" class = "span10">
+							<p>Identify your Language Code
+
+							<table border="1" style="width:50%">
+							  <tr>
+							    <td>English</td>
+							    <td>en</td>
+							  </tr>
+							  <tr>
+							    <td>Russian</td> 
+							    <td>ru</td>
+							  </tr>
+							</table>
+							</p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span1 offset1">
+							<p>Step 2:</p>
+						</div>
+						
+						<div style = "font-size:16px;" class = "span10">
+							<p>Locate actual message files in your languages at <a target='_blank' href="https://github.com/prabhat90/DownloadManager/tree/master/_locales">github.com/prabhat90/DownloadManager</a></p>
+						</div>
+					</div>
+					<div class = "row-fluid">
+						<div class = "span1 offset1">
+							<p></p>
+						</div>
+						<div style = "font-size:16px;" class = "span10">
+							<p>open messages.json file (inside the folder of your language code) in the language that you want to translate from and in the language that you want to translate into in other tab.</p>
+						</div>
+						
+					</div>
+
+					<div class = "row-fluid">
+						<div class = "span1 offset1">
+							<p>Step 3:</p>
+						</div>
+						
+						
+						<div style = "font-size:16px;" class = "span10">
+							<p>If u think something is mis-translated. You can tells us your suggested translation (or request translation into your language if it is not yet supported) comment/post at <a href="https://github.com/prabhat90/DownloadManager/issues" target='_blank'>github</a> or <a href="https://www.facebook.com/ChromeDownloadManager" target="_blank">our facebook page</a> or <a href="https://chrome.google.com/webstore/support/daoidaoebhfcgccdpgjjcbdginkofmfe?hl=en&gl=IN#feature" target="_blank">extension feedback page</a></p>
+						</div>
+					</div>
+					
+				</div>	
+			</div>
 		</div>
 	</div>
-</div>
 </body>
 </html>

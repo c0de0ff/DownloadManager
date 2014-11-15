@@ -18,6 +18,7 @@ function loadI18nMessages() {
   setProperty('title', 'innerText', 'tabTitle');
   setProperty('#q', 'placeholder', 'searchPlaceholder');
   setProperty('#all-downloads', 'title', 'AllDownloadsTitle');
+  setProperty('#translation', 'title', 'translationTitle');
   setProperty('#options-open', 'title', 'optionsTitle');
   setProperty('#clear-all', 'title', 'clearAllTitle');
   setProperty('#clear-all-text', 'innerText', 'clearAllText');

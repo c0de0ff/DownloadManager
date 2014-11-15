@@ -1,6 +1,6 @@
 {
    "background": {
-      "persistent": false,
+      "persistent": true,
       "scripts": [ "background.js" ]
    },
    "content_scripts": [ {
@@ -26,11 +26,12 @@
    "icons": {
       "128": "icon128.png"
    },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
    "offline_enabled": true,
    "manifest_version": 2,
    "name": "__MSG_extName__",
    "optional_permissions": [ "management" ],
    "permissions": [ "downloads", "downloads.open","downloads.shelf","clipboardWrite","clipboardRead","notifications","activeTab"],
   "web_accessible_resources": [ "icons/startd.png","icons/startdr.png"],
-   "version": "5.5"
+   "version": "5.7"
 }

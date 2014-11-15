@@ -3,7 +3,18 @@ function registerListener() {
         return $(this).hasClass("selected") ? (o.preventDefault(), void 0) : ($(".menuItem.selected").removeClass("selected"), $(this).addClass("selected"), $(".tab.activeTab").removeClass("activeTab"), $("#" + $(this).attr("data-tab")).addClass("activeTab"), "multiDownloadsTab" == $(this).attr("data-tab") && initMultiDownloader(), void 0)
     })
 }
+
 $(document).ready(function () {
+	try{
+        if(document.location.hash){
+    		$(".menuItem.selected").removeClass("selected"); 
+    		$(".tab.activeTab").removeClass("activeTab");
+    		$(document.location.hash+"Menu").addClass("selected");
+    		$("#"+$(document.location.hash+"Menu").attr("data-tab")).addClass("activeTab");
+        }
+	} catch(e){
+		console.log(e);
+	}
     
     $("#animation").jqxSwitchButton({
         theme: "classic",
