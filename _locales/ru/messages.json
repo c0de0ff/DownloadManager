@@ -77,18 +77,18 @@
    },
    "eraseTitle": {
       "description": "",
-      "message": "Очистка из списка"// очистка списка
+      "message": "Очистка из списка"
    },
    "errorRemoved": {
       "description": "",
       "message": "Удалено"
    },
    "extDesc": {
-      "description": "Extension description",// Описание расширения
+      "description": "Extension description",
       "message": "Легкий и быстрый способ упраления вашими загрузками"
    },
    "extName": {
-      "description": "Extension name", // название расширения
+      "description": "Extension name", 
       "message": "Менеджер загрузок"
    },
    "grantManagementPermission": {
@@ -187,7 +187,7 @@
    },
    "openWhenCompleteFinishing": {
       "description": "",
-      "message": "Открыть сейчас"// Открытие в мгновение
+      "message": "Открыть сейчас"
    },
    "openWhenCompleteHours": {
       "description": "",
