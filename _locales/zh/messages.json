@@ -1,179 +1,179 @@
-﻿{
+{
    "badChromeVersion": {
       "description": "",
       "message": "The downloads API is only available on dev and beta channels. Update your chrome here."
    },
    "contextMenuOpen": {
       "description": "",
-      "message": "Открыть"
+      "message": "打开文件"
    },
    "contextMenuOpenFolder": {
       "description": "",
-      "message": "Расположение файла"
+      "message": "打开所在文件夹"
    },
    "contextMenuGoToDownloadPage": {
       "description": "",
-      "message": "Перейти по ссылке"
+      "message": "转至下载页面"
    },
    "contextMenuDownloadLink": {
       "description": "",
-      "message": "Копировать ссылку"
+      "message": "复制下载链接"
    },
    "contextMenuDeleteFromDisk": {
       "description": "",
-      "message": "Удалить с диска"
+      "message": "删除磁盘上的文件"
    },
    "contextMenuRemoveFromList": {
       "description": "",
-      "message": "Удалить из списка"
+      "message": "从列表中移除"
    },
    "translationTitle": {
       "description": "",
-      "message": "Помощь с переводом"
+      "message": "Help with translation (帮助翻译)"
    },
    "AllDownloadsTitle": {
       "description": "",
-      "message": "Все загрузки"
+      "message": "所有下载"
    },
    "optionsTitle": {
       "description": "",
-      "message": "Опции"
+      "message": "选项"
    },
    "cancelTitle": {
       "description": "",
-      "message": "Отменить"
+      "message": "取消"
    },
    "clearAllTitle": {
       "description": "",
-      "message": "Очистить все видимые загрузки"
+      "message": "清除下载项"
    },
    "clearAllText": {
       "description": "",
-      "message": "Очистить все"
+      "message": "清除下载项"
    },
    "clearCompletedTitle": {
       "description": "",
-      "message": "Очистить все завершенные загрузки"
+      "message": "清除已完成下载项"
    },
    "clearCompletedText": {
       "description": "",
-      "message": "Очистка завершена"
+      "message": "清除已完成"
    },
    "clearDeletedTitle": {
       "description": "",
-      "message": "Очистить все удаленные загрузки"
+      "message": "清除所有已删除下载"
    },
    "clearDeletedText": {
       "description": "",
-      "message": "Очистить удаленные загруки"
+      "message": "清除已删除"
    },
    "clearFailedTitle": {
       "description": "",
-      "message": "Очистить все неудавшиеся загрузки"
+      "message": "清除失败的下载项"
    },
    "clearFailedText": {
       "description": "",
-      "message": "Очистка не удалась"
+      "message": "清除失败的下载项"
    },
    "eraseTitle": {
       "description": "",
-      "message": "Очистка из списка"
+      "message": "从列表中清除"
    },
    "errorRemoved": {
       "description": "",
-      "message": "Удалено"
+      "message": "拆除"
    },
    "extDesc": {
       "description": "Extension description",
-      "message": "Легкий и быстрый способ упраления вашими загрузками"
+      "message": "管理和使用您的快速轻松地下载互动"
    },
    "extName": {
-      "description": "Extension name", 
-      "message": "Менеджер загрузок"
+      "description": "Extension name",
+      "message": "下载管理器"
    },
    "grantManagementPermission": {
       "description": "",
-      "message": "Показывать ссылки к загружаемым файлам"
+      "message": "显示链接到下载的文件扩展名"
    },
    "loadingOlderDownloads": {
       "description": "",
-      "message": "Показать старые загрузки"
+      "message": "装载旧下载..."
    },
    "managementPermissionInfo": {
       "description": "",
-      "message": "Некоторые файлы были загружены расширением"
+      "message": "有些文件是由一个扩展下载"
    },
    "month0abbr": {
       "description": "",
-      "message": "янв"
+      "message": "一月"
    },
    "month10abbr": {
       "description": "",
-      "message": "ноя"
+      "message": "十一月"
    },
    "month11abbr": {
       "description": "",
-      "message": "дек"
+      "message": "十二月"
    },
    "month1abbr": {
       "description": "",
-      "message": "фев"
+      "message": "二月"
    },
    "month2abbr": {
       "description": "",
-      "message": "март"
+      "message": "三月"
    },
    "month3abbr": {
       "description": "",
-      "message": "апр"
+      "message": "四月"
    },
    "month4abbr": {
       "description": "",
-      "message": "май"
+      "message": "五月"
    },
    "month5abbr": {
       "description": "",
-      "message": "июнь"
+      "message": "六月"
    },
    "month6abbr": {
       "description": "",
-      "message": "июль"
+      "message": "七月"
    },
    "month7abbr": {
       "description": "",
-      "message": "авг"
+      "message": "八月"
    },
    "month8abbr": {
       "description": "",
-      "message": "сент"
+      "message": "九月"
    },
    "month9abbr": {
       "description": "",
-      "message": "окт"
+      "message": "十月"
    },
    "openDownloadsFolderTitle": {
       "description": "",
-      "message": "Открыть папку с загрузками"
+      "message": "打开下载文件夹"
    },
    "openDownloadsFolderText": {
       "description": "",
-      "message": "Папка загрузок"
+      "message": "下载文件夹"
    },
    "settingsTitle": {
       "description": "",
-      "message": "Настройки"
+      "message": "设置"
    },
    "settingsText": {
       "description": "",
-      "message": "Настройки"
+      "message": "设置"
    },
    "openTitle": {
       "description": "",
-      "message": "Открыть"
+      "message": "打开文件"
    },
    "openWhenCompleteDays": {
       "description": "",
-      "message": "Открытие в $days$d $hours$h",
+      "message": "开业$days$天 $hours$小时",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -187,11 +187,11 @@
    },
    "openWhenCompleteFinishing": {
       "description": "",
-      "message": "Открыть сейчас"
+      "message": "开口在几秒钟内"
    },
    "openWhenCompleteHours": {
       "description": "",
-      "message": "Открытие в $hours$h $mins$m",
+      "message": "开业$hours$小时 $mins$分钟",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -205,7 +205,7 @@
    },
    "openWhenCompleteMinutes": {
       "description": "",
-      "message": "Открытие в $mins$m $sec$s",
+      "message": "开业$mins$分钟 $sec$秒",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -219,7 +219,7 @@
    },
    "openWhenCompleteSeconds": {
       "description": "",
-      "message": "Открытие в $sec$s",
+      "message": "开业$sec$秒",
       "placeholders": {
          "sec": {
             "content": "$1",
@@ -229,47 +229,47 @@
    },
    "pauseTitle": {
       "description": "",
-      "message": "Пауза"
+      "message": "暂停"
    },
    "referrerTitle": {
       "description": "",
-      "message": "Ссылка"
+      "message": "引用页"
    },
    "removeFileTitle": {
       "description": "",
-      "message": "Удалить файл"
+      "message": "从列表中移除"
    },
    "resumeTitle": {
       "description": "",
-      "message": "Продолжить"
+      "message": "继续"
    },
    "retryTitle": {
       "description": "",
-      "message": "Попробовать снова"
+      "message": "重试"
    },
    "searchPlaceholder": {
       "description": "",
-      "message": "Поиск..."
+      "message": "搜索..."
    },
    "searching": {
       "description": "",
-      "message": "Поиск..."
+      "message": "搜索..."
    },
    "showInFolderTitle": {
-      "description": "",
-      "message": "Показать в папке"
+      "description": "Alt text for show in folder icon",
+      "message": "打开文件夹"
    },
    "showOlderDownloads": {
       "description": "",
-      "message": "Показать старые загрузки"
+      "message": "显示所有下载"
    },
    "tabTitle": {
       "description": "tab title",
-      "message": "Загрузки"
+      "message": "下载"
    },
    "timeLeftDays": {
       "description": "",
-      "message": "Прошло $days$d $hours$h",
+      "message": "剩余 $days$天 $hours$小时",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -283,11 +283,11 @@
    },
    "timeLeftFinishing": {
       "description": "",
-      "message": "Окончание..."
+      "message": "精加工..."
    },
    "timeLeftHours": {
       "description": "",
-      "message": "$hours$h $mins$m осталось",
+      "message": "剩余 $hours$小时 $mins$分钟",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -301,7 +301,7 @@
    },
    "timeLeftMinutes": {
       "description": "",
-      "message": "$mins$m $sec$s осталось",
+      "message": "剩余 $mins$分钟 $sec$秒",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -315,7 +315,7 @@
    },
    "timeLeftSeconds": {
       "description": "",
-      "message": "$sec$s осталось",
+      "message": "剩余 $sec$秒",
       "placeholders": {
          "sec": {
             "content": "$1",
@@ -325,10 +325,10 @@
    },
    "zeroItems": {
       "description": "",
-      "message": "Пусто."
+      "message": "没有下载记录"
    },
    "zeroSearchResults": {
       "description": "",
-      "message": "Нет результатов"
+      "message": "无法找到任何匹配的下载项"
    }
 }
