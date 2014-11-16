@@ -1,0 +1,6 @@
+﻿{
+   "badChromeVersion": {
+      "description": "",
+      "message": "The downloads API is only available on dev and beta channels. Update your chrome here."
+   }
+}
