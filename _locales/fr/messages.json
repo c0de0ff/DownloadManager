@@ -1,0 +1,334 @@
+{
+   "badChromeVersion": {
+      "description": "",
+      "message": "L'API est uniquement disponible sur les chaines dev et bêta. Mettre à jour Chrome ici."
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "Ouvrir"
+   },
+   "contextMenuOpenFolder": {
+      "description": "",
+      "message": "Ouvrir le dossier"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "",
+      "message": "Accèder à la page de téléchargement"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "Copier le lien de téléchargement"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "Supprimer de l'ordinateur"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "Supprimer de la liste"
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "Aider avec la traduction"
+   },
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "Tous les téléchargements"
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": "Options"
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "Retour"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "Nettoyer la liste des telechargements visibles"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "Nettoyer tout"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "Nettoyer les téléchargement complets"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "Nettoyer les complets"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "Nettoyer tout les télécargements supprimés"
+   },
+   "clearDeletedText": {
+      "description": "",
+      "message": "Nettoyer les supprimés"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "Nettoyer les téléchargements échoués"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "Nettoyer les échoués"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "Nettoyer de la liste"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "Suppression"
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Gérez vos téléchargements rapidement et facilement"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Download Manager"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "Afficher liens des extensions qui télécharge des fichiers."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "Chargement anciens téléchargements..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "Certains fichiers ont été téléchargés par une extension."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "Jan"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "Nov"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "Dec"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "Feb"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "Mar"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "Apr"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "May"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "Jun"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "Jul"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "Aug"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "Sep"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "Oct"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "Ouvrir le dossier de téléchargement"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "Dossier de téléchargement"
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "Options"
+   },
+   "settingsText": {
+      "description": "",
+      "message": "Options"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "Ouvrir"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "Ouvrir dans $days$d $hours$h",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "Ouvrir automatiquement"
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "Ouvrir dans $hours$h $mins$m",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "Ouvrir dans $mins$m $sec$s",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": "  Ouvrir dans $sec$s",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "Pause"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "Parrain"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "Supprimer fichier"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "Reprendre"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "Réessayer"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "Recherche..."
+   },
+   "searching": {
+      "description": "",
+      "message": "Téléportation de chèvres..."
+   },
+   "showInFolderTitle": {
+      "description": "Alt text for show in folder icon",
+      "message": "Afficher dans le dossier"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "Afficher anciens téléchargements"
+   },
+   "tabTitle": {
+      "description": "tab title",
+      "message": "téléchargements"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "$days$d $hours$h restantes",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "finition..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "$hours$h $mins$m restantes",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "$mins$m $sec$s restantes",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "$sec$s restantes",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "Il n'y a aucun téléchargement."
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "Aucune correspondance"
+   }
+}
