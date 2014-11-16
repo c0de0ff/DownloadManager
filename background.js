@@ -16,7 +16,8 @@ function trackView(){
 		localStorage.lastAnalyticTrackingTime=now;
 		console.log('Page view tracking pixel sent');
 	}
-	setTimeout(trackView, analyticsTimeInterval);
+	var timeLeft = analyticsTimeInterval-(now-localStorage.lastAnalyticTrackingTime);
+	setTimeout(trackView, timeLeft>0?timeLeft:1000);
 }
 trackView();
 
