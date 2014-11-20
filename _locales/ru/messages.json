@@ -49,7 +49,7 @@
    },
    "clearAllText": {
       "description": "",
-      "message": "Очистить все"
+      "message": "Очистить список загрузок"
    },
    "clearCompletedTitle": {
       "description": "",
@@ -57,7 +57,7 @@
    },
    "clearCompletedText": {
       "description": "",
-      "message": "Очистка завершена"
+      "message": "Очистить завершенные"
    },
    "clearDeletedTitle": {
       "description": "",
@@ -65,7 +65,7 @@
    },
    "clearDeletedText": {
       "description": "",
-      "message": "Очистить удаленные загруки"
+      "message": "Очистить удаленные"
    },
    "clearFailedTitle": {
       "description": "",
@@ -73,7 +73,7 @@
    },
    "clearFailedText": {
       "description": "",
-      "message": "Очистка не удалась"
+      "message": "Очистить неудавшиеся"
    },
    "eraseTitle": {
       "description": "",
