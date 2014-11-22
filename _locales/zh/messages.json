@@ -1,7 +1,7 @@
 {
    "badChromeVersion": {
       "description": "",
-      "message": "The downloads API is only available on dev and beta channels. Update your chrome here."
+      "message": "下载API仅在dev和beta版本上提供，请更新你的chrome软件。"
    },
    "contextMenuOpen": {
       "description": "",
@@ -45,11 +45,11 @@
    },
    "clearAllTitle": {
       "description": "",
-      "message": "清除下载项"
+      "message": "清除所有可见下载项"
    },
    "clearAllText": {
       "description": "",
-      "message": "清除下载项"
+      "message": "清除所有下载项"
    },
    "clearCompletedTitle": {
       "description": "",
@@ -81,11 +81,11 @@
    },
    "errorRemoved": {
       "description": "",
-      "message": "拆除"
+      "message": "移除"
    },
    "extDesc": {
       "description": "Extension description",
-      "message": "管理和使用您的快速轻松地下载互动"
+      "message": "快速轻松地管理和使用您的下载"
    },
    "extName": {
       "description": "Extension name",
@@ -93,11 +93,11 @@
    },
    "grantManagementPermission": {
       "description": "",
-      "message": "显示链接到下载的文件扩展名"
+      "message": "显示下载文件的扩展链接"
    },
    "loadingOlderDownloads": {
       "description": "",
-      "message": "装载旧下载..."
+      "message": "加载旧下载"
    },
    "managementPermissionInfo": {
       "description": "",
@@ -173,7 +173,7 @@
    },
    "openWhenCompleteDays": {
       "description": "",
-      "message": "开业$days$天 $hours$小时",
+      "message": "在$days$天 $hours$小时后打开",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -187,11 +187,11 @@
    },
    "openWhenCompleteFinishing": {
       "description": "",
-      "message": "开口在几秒钟内"
+      "message": "在几秒钟内打开"
    },
    "openWhenCompleteHours": {
       "description": "",
-      "message": "开业$hours$小时 $mins$分钟",
+      "message": "在$hours$小时 $mins$分钟后打开",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -205,7 +205,7 @@
    },
    "openWhenCompleteMinutes": {
       "description": "",
-      "message": "开业$mins$分钟 $sec$秒",
+      "message": "在$mins$分钟 $sec$秒后打开",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -219,7 +219,7 @@
    },
    "openWhenCompleteSeconds": {
       "description": "",
-      "message": "开业$sec$秒",
+      "message": "在$sec$秒后打开",
       "placeholders": {
          "sec": {
             "content": "$1",
@@ -283,7 +283,7 @@
    },
    "timeLeftFinishing": {
       "description": "",
-      "message": "精加工..."
+      "message": "结束中..."
    },
    "timeLeftHours": {
       "description": "",

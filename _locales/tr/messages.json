@@ -173,7 +173,7 @@
    },
    "openWhenCompleteDays": {
       "description": "",
-      "message": "$days$d $hours$h"'te açılacak,
+      "message": "$days$d $hours$h'te açılacak",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -191,7 +191,7 @@
    },
    "openWhenCompleteHours": {
       "description": "",
-      "message": "$hours$h $mins$m"'de açılacak,
+      "message": "$hours$h $mins$m'de açılacak",
       "placeholders": {
          "hours": {
             "content": "$1",
