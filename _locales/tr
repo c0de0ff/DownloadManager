@@ -1,0 +1,334 @@
+{
+   "badChromeVersion": {
+      "description": "",
+      "message": "İndirme API'si sadece geliştirici (dev) ve beta kanallarında mevcuttur. Chrome'u buradan güncelleyin."
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "Aç"
+   },
+   "contextMenuOpenFolder": {
+      "description": "",
+      "message": "İçeren Klasörü Aç"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "",
+      "message": "İndirme Sayfasına Git"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "İndirme Bağlantısını Kopyala"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "Diskten Sil"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "Listeden Kaldır"
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "Çeviri ile Yardım Edin"
+   },
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "Tüm İndirmeler"
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": "Seçenekler"
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "İptal"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "Tüm Görünen İndirmeleri Temizle"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "Tümünü Temizle"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "Tüm Tamamlanan İndirmeleri Temizle"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "Tamamlananları Temizle"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "Tüm Silinen İndirmeleri Temizle"
+   },
+   "clearDeletedText": {
+      "description": "",
+      "message": "Silinenleri Temizle"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "Tüm Başarısız İndirmeleri Temizle"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "Başarısızları Temizle"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "Listeden Kaldır"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "Kaldırıldı"
+   },
+   "extDesc": {
+      "description": "Eklenti tanımı",
+      "message": "İndirmelerinizi hızlı ve kolay şekilde yönetir"
+   },
+   "extName": {
+      "description": "Eklenti adı",
+      "message": "Download Manager"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "Bağlantıları dosya indiren eklentilere göster."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "Eski İndirmeler Yükleniyor..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "Bazı dosyalar bir eklenti tarafından indirildi."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "Oca"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "Kas"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "Ara"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "Şub"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "Mar"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "Nis"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "May"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "Haz"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "Tem"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "Ağs"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "Eyl"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "Eki"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "İndirilenler Klasörünü Aç"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "İndirilenler Klasörü"
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "Ayarlar"
+   },
+   "settingsText": {
+      "description": "",
+      "message": "Ayarlar"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "Aç"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "$days$d $hours$h"'te açılacak,
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "Kısa sürede açılacak"
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "$hours$h $mins$m"'de açılacak,
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "$mins$m $sec$s'de açılacak",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": "  $sec$s'de açılacak",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "Durdur"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "Kaynak (Yönlendirici)"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "Dosyayı sil"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "Devam Et"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "Tekrar Dene"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "Ara..."
+   },
+   "searching": {
+      "description": "",
+      "message": "Teleporting..."
+   },
+   "showInFolderTitle": {
+      "description": "Alt text for show in folder icon",
+      "message": "Klasörde Göster"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "Show Older Downloads"
+   },
+   "tabTitle": {
+      "description": "tab title",
+      "message": "İndirilenler"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "$days$d $hours$h kaldı",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "tamamlanıyor..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "$hours$h $mins$m kaldı",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "$mins$m $sec$s kaldı",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "$sec$s kaldı",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "indirilecek hiç öge yok."
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "Sıfır sonuç"
+   }
+}
