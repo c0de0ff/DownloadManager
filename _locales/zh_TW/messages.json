@@ -1,10 +1,334 @@
-﻿{
+{
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "所有下載項目"
+   },
+   "badChromeVersion": {
+      "description": "",
+      "message": "API只有在開發與beta頻道能用，請更新你的chrome."
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "取消"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "清除全部"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "清除全部可見的下載"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "清除已完成的下載"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "清除所有已完成的下載項目"
+   },
+   "clearDeletedText": {
+      "description": "",
+      "message": "清除已刪除的項目"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "清除所有已刪除的下載項目"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "清除失敗項目"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "清除所有失敗的下載項目"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "從硬碟刪除"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "複製下載連結"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "",
+      "message": "前往下載頁面"
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "開啟"
+   },
+   "contextMenuOpenFolder": {
+      "description": "",
+      "message": "開在所在資料夾"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "從列表移除"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "從列表清除"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "已移除"
+   },
    "extDesc": {
       "description": "Extension description",
-      "message": "管理和使用您的快速轻松地下载互动"
+      "message": "以簡單迅速的方式管理及使用你的下載項目"
    },
    "extName": {
       "description": "Extension name",
-      "message": "下载管理器"
+      "message": "下載管理器"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "對擴充套件顯示下載檔案的連結."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "載入較舊的下載項目..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "有些檔案是由擴充套件下載."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "一月"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "十一月"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "十二月"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "二月"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "三月"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "四月"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "五月"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "六月"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "七月"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "八月"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "九月"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "十月"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "下載資料夾"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "開啟下載資料夾"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "開啟"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "在 $days天 $hours小時 後開啟",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "即將開啟"
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "在 $hours小時 $mins分 後開啟",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "在 $mins分 $sec秒 後開啟",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": "  在 $sec秒 後開啟",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": "選項"
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "暫停"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "參照位址"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "移除檔案"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "恢復"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "重試"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "搜尋..."
+   },
+   "searching": {
+      "description": "",
+      "message": "傳送山羊中..."
+   },
+   "settingsText": {
+      "description": "",
+      "message": "設定"
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "設定"
+   },
+   "showInFolderTitle": {
+      "description": "Alt text for show in folder icon",
+      "message": "在資料夾中顯示"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "顯示較舊的下載項目"
+   },
+   "tabTitle": {
+      "description": "tab title",
+      "message": "下載項目"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "剩下 $days天 $hours小時",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "完成..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "剩下 $hours小時 $mins分",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "剩下 $mins分 $sec秒",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "剩下 $sec秒",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "協助翻譯"
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "沒有下載紀錄"
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "沒有符合項目"
    }
 }
