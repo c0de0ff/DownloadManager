@@ -57,7 +57,7 @@
    },
    "clearCompletedText": {
       "description": "",
-      "message": "Очистка завершена"
+      "message": "Очистить завершенные"
    },
    "clearDeletedTitle": {
       "description": "",
@@ -73,7 +73,7 @@
    },
    "clearFailedText": {
       "description": "",
-      "message": "Очистка не удалась"
+      "message": "Очистить неудавшиеся"
    },
    "eraseTitle": {
       "description": "",
