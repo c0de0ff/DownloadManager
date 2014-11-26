@@ -1,0 +1,334 @@
+{
+   "badChromeVersion": {
+      "description": "",
+      "message": "Le API per i download sono disponibili solo per i canali dev e beta. Installa una versione di chrome da questi canali."
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "Apri"
+   },
+   "contextMenuOpenFolder": {
+      "description": "",
+      "message": "Apri cartella"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "",
+      "message": "Vai alla pagina di download"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "Copia link"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "Cancella dal disco"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "Rimuovi dalla lista"
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "Aiuta a tradurre"
+   },
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "Tutti i download"
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": "Opzioni"
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "Annulla"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "Rimuovi tutti i download visibili"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "Rimuovi tutti i download"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "Rimuovi tutti i download completati"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "Rimuovi i download completati"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "Rimuovi tutti i download cancellati"
+   },
+   "clearDeletedText": {
+      "description": "Rimuovi i download cancellati",
+      "message": ""
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "Rimuovi tutti i download falliti"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "Rimuovi i download falliti"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "Clear from List"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "Cancellato"
+   },
+   "extDesc": {
+      "description": "Descrizione estensione",
+      "message": "Gestisci i tuoi download in modo semplice e intuitivo"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Download Manager"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "Mostra link alle estensioni che scaricano file."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "Loading Older Downloads..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "Alcuni file sono stati scaricati da un estensione."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "Gen"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "Nov"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "Dic"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "Feb"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "Mar"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "Apr"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "May"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "Giu"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "Lug"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "Ago"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "Set"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "Ott"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "Apri cartella download"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "Cartella download"
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "Impostazioni"
+   },
+   "settingsText": {
+      "description": "",
+      "message": "Impostazioni"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "Apri"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "Apertura tra $days$d $hours$h",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "Tra poco il file verrà aperto"
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "Apertura tra $hours$h $mins$m",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "Apertura tra $mins$m $sec$s",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": "  Apertura tra $sec$s",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "Pausa"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "Referrer"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "Rimuovi file"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "Riprendi"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "Riprova"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "Cerca..."
+   },
+   "searching": {
+      "description": "",
+      "message": "Teletrasportando alcune capre..."
+   },
+   "showInFolderTitle": {
+      "description": "Alt text for show in folder icon",
+      "message": "Mostra nella cartella"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "Mostra download precedenti"
+   },
+   "tabTitle": {
+      "description": "tab title",
+      "message": "Download"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "$days$g $hours$h rimanenti",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "Quasi finito..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "$hours$h $mins$m rimanenti",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "$mins$m $sec$s rimanenti",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "$sec$s rimanenti",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "Non ci sono download."
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "Nessun risultato"
+   }
+}
