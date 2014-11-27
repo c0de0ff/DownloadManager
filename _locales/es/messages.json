@@ -1,0 +1,334 @@
+{
+   "badChromeVersion": {
+      "description": "",
+      "message": "The downloads API is only available on dev and beta channels. Update your chrome here."
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "Open"
+   },
+   "contextMenuOpenFolder": {
+      "description": "",
+      "message": "Open Containing Folder"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "",
+      "message": "Go To Download Page"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "Copy Download Link"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "Delete From Disk"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "Remove From List"
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "Help with translation"
+   },
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "All Downloads"
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": "Options"
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "Cancel"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "Clear All Visible Downloads"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "Clear All"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "Clear All Completed Downloads"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "Clear Completed"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "Clear All Deleted Downloads"
+   },
+   "clearDeletedText": {
+      "description": "",
+      "message": "Clear Deleted"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "Clear All Failed Downloads"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "Clear Failed"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "Clear from List"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "Removed"
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Manage and interact with your downloads in quick and easy way"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Download Manager"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "Show links to extensions that download files."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "Loading Older Downloads..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "Some files were downloaded by an extension."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "Jan"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "Nov"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "Dec"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "Feb"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "Mar"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "Apr"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "May"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "Jun"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "Jul"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "Aug"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "Sep"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "Oct"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "Open Downloads Folder"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "Downloads Folder"
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "Settings"
+   },
+   "settingsText": {
+      "description": "",
+      "message": "Settings"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "Open"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "Opening in $days$d $hours$h",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "Opening in just a moment"
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "Opening in $hours$h $mins$m",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "Opening in $mins$m $sec$s",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": "  Opening in $sec$s",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "Pause"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "Referrer"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "Remove file"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "Resume"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "Retry"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "Search..."
+   },
+   "searching": {
+      "description": "",
+      "message": "Teleporting lots of goats..."
+   },
+   "showInFolderTitle": {
+      "description": "Alt text for show in folder icon",
+      "message": "Show in Folder"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "Show Older Downloads"
+   },
+   "tabTitle": {
+      "description": "tab title",
+      "message": "Downloads"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "$days$d $hours$h left",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "finishing..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "$hours$h $mins$m left",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "$mins$m $sec$s left",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "$sec$s left",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "There are zero download items."
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "Zero matches"
+   }
+}
