@@ -33,5 +33,5 @@
    "optional_permissions": [ "management" ],
    "permissions": [ "downloads", "downloads.open","downloads.shelf","clipboardWrite","clipboardRead","notifications","activeTab"],
   "web_accessible_resources": [ "icons/startd.png","icons/startdr.png"],
-   "version": "6.1.1"
+   "version": "6.3.1"
 }
