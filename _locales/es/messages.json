@@ -1,63 +1,63 @@
 {
    "badChromeVersion": {
       "description": "",
-      "message": "The downloads API is only available on dev and beta channels. Update your chrome here."
+      "message": "La descarga de la API esta sólo disponible en los canales DEV y BETA. Instala una versión de chrome de este canal."
    },
    "contextMenuOpen": {
       "description": "",
-      "message": "Open"
+      "message": "Abrir"
    },
    "contextMenuOpenFolder": {
       "description": "",
-      "message": "Open Containing Folder"
+      "message": "Abrir Carpeta Contenedora"
    },
    "contextMenuGoToDownloadPage": {
       "description": "",
-      "message": "Go To Download Page"
+      "message": "Ir a la página de descarga"
    },
    "contextMenuDownloadLink": {
       "description": "",
-      "message": "Copy Download Link"
+      "message": "Copiar link de descarga"
    },
    "contextMenuDeleteFromDisk": {
       "description": "",
-      "message": "Delete From Disk"
+      "message": "Borrar del disco"
    },
    "contextMenuRemoveFromList": {
       "description": "",
-      "message": "Remove From List"
+      "message": "Eliminar de la lista"
    },
    "translationTitle": {
       "description": "",
-      "message": "Help with translation"
+      "message": "Ayudar con la traducción"
    },
    "AllDownloadsTitle": {
       "description": "",
-      "message": "All Downloads"
+      "message": "Todas las descargas"
    },
    "optionsTitle": {
       "description": "",
-      "message": "Options"
+      "message": "Opciones"
    },
    "cancelTitle": {
       "description": "",
-      "message": "Cancel"
+      "message": "Cancelar"
    },
    "clearAllTitle": {
       "description": "",
-      "message": "Clear All Visible Downloads"
+      "message": "Eliminar descargas visibles"
    },
    "clearAllText": {
       "description": "",
-      "message": "Clear All"
+      "message": "Eliminar todo"
    },
    "clearCompletedTitle": {
       "description": "",
-      "message": "Clear All Completed Downloads"
+      "message": "Eliminar descargas completadas"
    },
    "clearCompletedText": {
       "description": "",
-      "message": "Clear Completed"
+      "message": "Eliminar completadas"
    },
    "clearDeletedTitle": {
       "description": "",
@@ -65,27 +65,27 @@
    },
    "clearDeletedText": {
       "description": "",
-      "message": "Clear Deleted"
+      "message": "Eliminar borradas"
    },
    "clearFailedTitle": {
       "description": "",
-      "message": "Clear All Failed Downloads"
+      "message": "Eliminar descargas fallidas"
    },
    "clearFailedText": {
       "description": "",
-      "message": "Clear Failed"
+      "message": "Eliminar fallidas"
    },
    "eraseTitle": {
       "description": "",
-      "message": "Clear from List"
+      "message": "Eliminar de la lista"
    },
    "errorRemoved": {
       "description": "",
-      "message": "Removed"
+      "message": "Eliminada"
    },
    "extDesc": {
       "description": "Extension description",
-      "message": "Manage and interact with your downloads in quick and easy way"
+      "message": "Administra e interactua con tus descargas de una manera rápida y facil"
    },
    "extName": {
       "description": "Extension name",
@@ -93,19 +93,19 @@
    },
    "grantManagementPermission": {
       "description": "",
-      "message": "Show links to extensions that download files."
+      "message": "Mostrar links a las extensiones que descargan los archivos."
    },
    "loadingOlderDownloads": {
       "description": "",
-      "message": "Loading Older Downloads..."
+      "message": "Cargando antiguas descargas..."
    },
    "managementPermissionInfo": {
       "description": "",
-      "message": "Some files were downloaded by an extension."
+      "message": "Algunos archivos han sido descargados con una extensión."
    },
    "month0abbr": {
       "description": "",
-      "message": "Jan"
+      "message": "Ene"
    },
    "month10abbr": {
       "description": "",
@@ -113,7 +113,7 @@
    },
    "month11abbr": {
       "description": "",
-      "message": "Dec"
+      "message": "Dic"
    },
    "month1abbr": {
       "description": "",
@@ -125,7 +125,7 @@
    },
    "month3abbr": {
       "description": "",
-      "message": "Apr"
+      "message": "Abr"
    },
    "month4abbr": {
       "description": "",
@@ -141,7 +141,7 @@
    },
    "month7abbr": {
       "description": "",
-      "message": "Aug"
+      "message": "Ago"
    },
    "month8abbr": {
       "description": "",
@@ -153,27 +153,27 @@
    },
    "openDownloadsFolderTitle": {
       "description": "",
-      "message": "Open Downloads Folder"
+      "message": "Abrir carpeta de descargas"
    },
    "openDownloadsFolderText": {
       "description": "",
-      "message": "Downloads Folder"
+      "message": "Carpeta de descargas"
    },
    "settingsTitle": {
       "description": "",
-      "message": "Settings"
+      "message": "Opciones"
    },
    "settingsText": {
       "description": "",
-      "message": "Settings"
+      "message": "Opciones"
    },
    "openTitle": {
       "description": "",
-      "message": "Open"
+      "message": "Abrir"
    },
    "openWhenCompleteDays": {
       "description": "",
-      "message": "Opening in $days$d $hours$h",
+      "message": "Abriendo en $days$d $hours$h",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -187,11 +187,11 @@
    },
    "openWhenCompleteFinishing": {
       "description": "",
-      "message": "Opening in just a moment"
+      "message": "Abriendo en un momento"
    },
    "openWhenCompleteHours": {
       "description": "",
-      "message": "Opening in $hours$h $mins$m",
+      "message": "Abriendo en $hours$h $mins$m",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -205,7 +205,7 @@
    },
    "openWhenCompleteMinutes": {
       "description": "",
-      "message": "Opening in $mins$m $sec$s",
+      "message": "Abriendo en $mins$m $sec$s",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -219,7 +219,7 @@
    },
    "openWhenCompleteSeconds": {
       "description": "",
-      "message": "  Opening in $sec$s",
+      "message": "  Abriendo en $sec$s",
       "placeholders": {
          "sec": {
             "content": "$1",
@@ -229,7 +229,7 @@
    },
    "pauseTitle": {
       "description": "",
-      "message": "Pause"
+      "message": "Pausar"
    },
    "referrerTitle": {
       "description": "",
@@ -237,39 +237,39 @@
    },
    "removeFileTitle": {
       "description": "",
-      "message": "Remove file"
+      "message": "Eliminar archivo"
    },
    "resumeTitle": {
       "description": "",
-      "message": "Resume"
+      "message": "Continuar"
    },
    "retryTitle": {
       "description": "",
-      "message": "Retry"
+      "message": "Reintentar"
    },
    "searchPlaceholder": {
       "description": "",
-      "message": "Search..."
+      "message": "Buscar..."
    },
    "searching": {
       "description": "",
-      "message": "Teleporting lots of goats..."
+      "message": "Teletransportando un gran número de cabras..."
    },
    "showInFolderTitle": {
       "description": "Alt text for show in folder icon",
-      "message": "Show in Folder"
+      "message": "Mostrar en carpeta"
    },
    "showOlderDownloads": {
       "description": "",
-      "message": "Show Older Downloads"
+      "message": "Mostrar descargas antiguas"
    },
    "tabTitle": {
       "description": "tab title",
-      "message": "Downloads"
+      "message": "Descargas"
    },
    "timeLeftDays": {
       "description": "",
-      "message": "$days$d $hours$h left",
+      "message": "quedan $days$d $hours$h",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -283,11 +283,11 @@
    },
    "timeLeftFinishing": {
       "description": "",
-      "message": "finishing..."
+      "message": "finalizando..."
    },
    "timeLeftHours": {
       "description": "",
-      "message": "$hours$h $mins$m left",
+      "message": "quedan $hours$h $mins$m",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -301,7 +301,7 @@
    },
    "timeLeftMinutes": {
       "description": "",
-      "message": "$mins$m $sec$s left",
+      "message": "quedan $mins$m $sec$s",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -315,7 +315,7 @@
    },
    "timeLeftSeconds": {
       "description": "",
-      "message": "$sec$s left",
+      "message": "quedan $sec$s",
       "placeholders": {
          "sec": {
             "content": "$1",
@@ -325,10 +325,10 @@
    },
    "zeroItems": {
       "description": "",
-      "message": "There are zero download items."
+      "message": "No hay descargas."
    },
    "zeroSearchResults": {
       "description": "",
-      "message": "Zero matches"
+      "message": "No hay coincidencias."
    }
 }
