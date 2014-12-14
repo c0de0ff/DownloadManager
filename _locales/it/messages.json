@@ -60,12 +60,12 @@
       "message": "Rimuovi i download completati"
    },
    "clearDeletedTitle": {
-      "description": "",
+      "description": "Rimuovi tutti i download cancellati",
       "message": "Rimuovi tutti i download cancellati"
    },
    "clearDeletedText": {
       "description": "Rimuovi i download cancellati",
-      "message": ""
+      "message": "Rimuovi tutti i download cancellati"
    },
    "clearFailedTitle": {
       "description": "",
@@ -77,7 +77,7 @@
    },
    "eraseTitle": {
       "description": "",
-      "message": "Clear from List"
+      "message": "Elimina da elenco"
    },
    "errorRemoved": {
       "description": "",
@@ -97,7 +97,7 @@
    },
    "loadingOlderDownloads": {
       "description": "",
-      "message": "Loading Older Downloads..."
+      "message": "Carica vecchi Downloads..."
    },
    "managementPermissionInfo": {
       "description": "",
@@ -129,7 +129,7 @@
    },
    "month4abbr": {
       "description": "",
-      "message": "May"
+      "message": "Mag"
    },
    "month5abbr": {
       "description": "",
@@ -233,7 +233,7 @@
    },
    "referrerTitle": {
       "description": "",
-      "message": "Referrer"
+      "message": "Attribuito a"
    },
    "removeFileTitle": {
       "description": "",
