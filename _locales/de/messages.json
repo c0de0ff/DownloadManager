@@ -1,0 +1,334 @@
+{
+   "badChromeVersion": {
+      "description": "",
+      "message": "Die Downloads API ist nur im Dev- und Beta-Channel verfügbar. Updaten Sie Ihren Chrome hier!"
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "Öffnen"
+   },
+   "contextMenuOpenFolder": {
+      "description": "",
+      "message": "Öffne Ordner"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "",
+      "message": "Zur Download Seite"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "Kopiere Download Link"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "Von Festplatte löschen"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "Aus Liste löschen"
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "Helfen Sie bei der Übersetzung"
+   },
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "Alle Downloads"
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": "Optionen"
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "Abbrechen"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "Lösche alle sichtbaren Downloads"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "Alles löschen"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "Lösche alle beendeten Downloads"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "Entferne vollständige Downloads"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "Entferne alle gelöschten Downloads"
+   },
+   "clearDeletedText": {
+      "description": "",
+      "message": "Entferne gelöschte Downloads"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "Entferne alle fehlerhaften Downloads"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "Entferne fehlerhafte Downloads"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "Entferne aus der Liste"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "Gelöscht"
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Arbeiten Sie mit Ihren Downloads schnell und einfach."
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Download Manager"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "Zeige Links zu Erweiterungen die Dateien herunterladen"
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "Lade ältere Downloads..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "Einige Dateien wurden von Extensions heruntergalden."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "Jan"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "Nov"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "Dez"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "Feb"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "Mär"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "Apr"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "Mai"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "Jun"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "Jul"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "Aug"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "Sep"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "Okt"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "Öffne Downloads-Verzeichnis"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "Downloads Verzeichnis"
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "Einstellungen"
+   },
+   "settingsText": {
+      "description": "",
+      "message": "Einstellungen"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "Öffnen"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "Öffne in $days$d $hours$h",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "Die Datei wird geöffnet."
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "Öffnen in $hours$h $mins$m",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "Öffnen in $mins$m $sec$s",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": " Öffnen in $sec$s",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "Pause"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "Referrer"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "Lösche Datei"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "Wiederholen"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "Erneut versuchen"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "Suche..."
+   },
+   "searching": {
+      "description": "",
+      "message": "Teleportiere eine Menge Ziegen..."
+   },
+   "showInFolderTitle": {
+      "description": "Alt text for show in folder icon",
+      "message": "Zeige in Ordner"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "Zeige ältere Downloads"
+   },
+   "tabTitle": {
+      "description": "tab title",
+      "message": "Downloads"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "$days$d $hours$h verstrichen",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "Beende..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "$hours$h $mins$m verstrichen",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "$mins$m $sec$s verstrichen",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "$sec$s  verstrichen",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "Keine heruntergeladenen Dateien vorhanden."
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "Nichts gefunden"
+   }
+}
