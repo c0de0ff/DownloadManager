@@ -61,11 +61,11 @@
    },
    "clearDeletedTitle": {
       "description": "",
-      "message": "Очистить все удаленные загрузки"
+      "message": "Очистить от удаленных с диска загрузок"
    },
    "clearDeletedText": {
-      "description": "",
-      "message": "Очистить от удаленных с диска загрузок"
+      "description": "Очистить все удаленные загрузки",
+      "message": ""
    },
    "clearFailedTitle": {
       "description": "",
@@ -173,7 +173,7 @@
    },
    "openWhenCompleteDays": {
       "description": "",
-      "message": "Открытие в $days$d $hours$h",
+      "message": "Открытие через $days$д $hours$ч",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -191,7 +191,7 @@
    },
    "openWhenCompleteHours": {
       "description": "",
-      "message": "Открытие в $hours$h $mins$m",
+      "message": "Открытие через $hours$ч $mins$м",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -205,7 +205,7 @@
    },
    "openWhenCompleteMinutes": {
       "description": "",
-      "message": "Открытие в $mins$m $sec$s",
+      "message": "Открытие в $mins$м $sec$с",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -219,7 +219,7 @@
    },
    "openWhenCompleteSeconds": {
       "description": "",
-      "message": "Открытие в $sec$s",
+      "message": "Открытие в $sec$с",
       "placeholders": {
          "sec": {
             "content": "$1",
@@ -269,7 +269,7 @@
    },
    "timeLeftDays": {
       "description": "",
-      "message": "Прошло $days$d $hours$h",
+      "message": "Прошло $days$д $hours$ч",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -287,7 +287,7 @@
    },
    "timeLeftHours": {
       "description": "",
-      "message": "$hours$h $mins$m осталось",
+      "message": "$hours$ч $mins$м осталось",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -301,7 +301,7 @@
    },
    "timeLeftMinutes": {
       "description": "",
-      "message": "$mins$m $sec$s осталось",
+      "message": "$mins$м $sec$с осталось",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -315,7 +315,7 @@
    },
    "timeLeftSeconds": {
       "description": "",
-      "message": "$sec$s осталось",
+      "message": "$sec$с осталось",
       "placeholders": {
          "sec": {
             "content": "$1",
