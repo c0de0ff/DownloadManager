@@ -157,7 +157,7 @@
    },
    "openWhenCompleteDays": {
       "description": "",
-      "message": "在 $days天 $hours小時 後開啟",
+      "message": "在 $days$天 $hours$小時 後開啟",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -175,7 +175,7 @@
    },
    "openWhenCompleteHours": {
       "description": "",
-      "message": "在 $hours小時 $mins分 後開啟",
+      "message": "在 $hours$小時 $mins$分 後開啟",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -189,7 +189,7 @@
    },
    "openWhenCompleteMinutes": {
       "description": "",
-      "message": "在 $mins分 $sec秒 後開啟",
+      "message": "在 $mins$分 $sec$秒 後開啟",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -203,7 +203,7 @@
    },
    "openWhenCompleteSeconds": {
       "description": "",
-      "message": "  在 $sec秒 後開啟",
+      "message": "  在 $sec$秒 後開啟",
       "placeholders": {
          "sec": {
             "content": "$1",
@@ -265,7 +265,7 @@
    },
    "timeLeftDays": {
       "description": "",
-      "message": "剩下 $days天 $hours小時",
+      "message": "剩下 $days$天 $hours$小時",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -283,7 +283,7 @@
    },
    "timeLeftHours": {
       "description": "",
-      "message": "剩下 $hours小時 $mins分",
+      "message": "剩下 $hours$小時 $mins$分",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -297,7 +297,7 @@
    },
    "timeLeftMinutes": {
       "description": "",
-      "message": "剩下 $mins分 $sec秒",
+      "message": "剩下 $mins$分 $sec$秒",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -311,7 +311,7 @@
    },
    "timeLeftSeconds": {
       "description": "",
-      "message": "剩下 $sec秒",
+      "message": "剩下 $sec$秒",
       "placeholders": {
          "sec": {
             "content": "$1",
