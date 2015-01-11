@@ -1,0 +1,334 @@
+{
+   "badChromeVersion": {
+      "description": "",
+      "message": "The downloads API is only available on dev and beta channels. Update your chrome here."
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "Відкрити"
+   },
+   "contextMenuOpenFolder": {
+      "description": "",
+      "message": "Розташування файлу"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "",
+      "message": "Перейти за посиланням"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "Копіювати посилання"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "Видалити з диску"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "Видалити зі списку"
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "Допомогти з перекладом"
+   },
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "Всі завантаження"
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": "Опції"
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "Скасувати"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "Скасувати всі видимі завантаження"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "Очистити все"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "Очистити всі завершені завантаження"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "Очистка завершена"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "Очистити всі видалені завантаження"
+   },
+   "clearDeletedText": {
+      "description": "",
+      "message": "Очистити видалені завантаження"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "Очистити всі невдалі завантаження"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "Невдала очистка"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "Очистка зі списку"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "Видалено"
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Легкий та швидкий спосіб управління вашими завантаженнями"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Менеджер завантажень"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "Показувати посилання до завантажуваних файлів."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "Завантажую попередні завантаження..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "Деякі файли були завантажені додатком."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "Січ"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "Лис"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "Гру"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "Лют"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "Бер"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "Кві"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "Тра"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "Чер"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "Лип"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "Сер"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "Вер"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "Жов"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "Відкрити теку із завантаженнями"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "Тека завантажень"
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "Налаштування"
+   },
+   "settingsText": {
+      "description": "",
+      "message": "Налаштування"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "Відкрити"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "Відкриття через $days$d $hours$h",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "Відкрити зараз"
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "Відкриття через $hours$h $mins$m",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "Відкриття через $mins$m $sec$s",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": "  Відкриття через $sec$s",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "Пауза"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "Реферер"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "Видалити файл"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "Продовжити"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "Спробувати знову"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "Пошук..."
+   },
+   "searching": {
+      "description": "",
+      "message": "Щось багацько..."
+   },
+   "showInFolderTitle": {
+      "description": "Alt text for show in folder icon",
+      "message": "Показати в теці"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "Показати старі завантаження"
+   },
+   "tabTitle": {
+      "description": "tab title",
+      "message": "Завантаження"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "Минуло $days$d $hours$h",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "Закінчення..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "Минуло hours$h $mins$m",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "Минуло $mins$m $sec$s",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "Минуло $sec$s",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "Нема завантажень."
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "Нема співпадінь."
+   }
+}
