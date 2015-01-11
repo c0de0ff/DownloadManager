@@ -1,0 +1,334 @@
+{
+   "badChromeVersion": {
+      "description": "",
+      "message": "API pobierania plików jest dostępne tylko w kanałach dev i beta. Uaktualnij chrome tutaj."
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "Otwórz"
+   },
+   "contextMenuOpenFolder": {
+      "description": "",
+      "message": "Otwórz folder zawierający"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "",
+      "message": "Idź do strony pobierania"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "Kopiuj link"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "Usuń z dysku"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "Usuń z listy"
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "Pomóż z tłumaczeniem"
+   },
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "Lista pobranych plików"
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": "Opcje"
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "Anuluj"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "Wyczyść widoczne"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "Wyczyść wszystkie"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "Wyczyść wszystkie zakończone"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "Wyczyść zakończone"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "Wyczyść wszystkie anulowane"
+   },
+   "clearDeletedText": {
+      "description": "",
+      "message": "Wyczyść anulowane"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "Wyczyść wszystkie błędne"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "Wyczyść błędne"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "Usuń z listy"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "Usunięty"
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Zarządzaj swoimi pobranymi plikami w szybki i prosty sposób"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Download Manager"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "Pokaż linki do rozszerzeń pobierających pliki."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "Wczytywanie plików pobranych wcześniej..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "Pewne pliki zostały pobrane przez rozszerzenie."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "Sty"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "Lis"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "Gru"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "Lut"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "Marz"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "Kwi"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "Maj"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "Czer"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "Lip"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "Sie"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "Wrz"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "Paź"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "Otwórz folder pobierania"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "Folder pobierania"
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "Ustawienia"
+   },
+   "settingsText": {
+      "description": "",
+      "message": "Ustawienia"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "Otwórz"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "Otwarcie za $days$d $hours$h",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "Otwarcie za chwilę"
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "Otwarcie za $hours$h $mins$m",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "Otwarcie za $mins$m $sec$s",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": "Otwarcie za $sec$s",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "Wstrzymanie"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "Odnośnik"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "Usuń plik"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "Wznów"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "Spróbuj ponownie"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "Szukaj..."
+   },
+   "searching": {
+      "description": "",
+      "message": "Teleportacja wielu kóz..."
+   },
+   "showInFolderTitle": {
+      "description": "Alt text for show in folder icon",
+      "message": "Pokaż w folderze"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "Pokaż starsze pliki"
+   },
+   "tabTitle": {
+      "description": "tab title",
+      "message": "Pobrane pliki"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "Pozostało $days$d $hours$h",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "kończenie..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "Pozostało $hours$h $mins$m",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "Pozostało $mins$m $sec$s",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "Pozostało $sec$s",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "Brak pobranych plików."
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "Nie znaleziono"
+   }
+} 
