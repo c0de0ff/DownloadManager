@@ -64,8 +64,8 @@
       "message": "Очистить от удаленных с диска загрузок"
    },
    "clearDeletedText": {
-      "description": "Очистить удаленные загруки",
-      "message": ""
+      "description": "",
+      "message": "Очистить удаленные"
    },
    "clearFailedTitle": {
       "description": "",
