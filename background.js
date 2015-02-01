@@ -409,15 +409,13 @@ chrome.notifications.onClosed.addListener(function(notificationId,byUser){
 	localStorage.popupLastOpened = Date.now();
 });
 
-chrome.runtime.onMessage.addListener(function(request) {
+chrome.runtime.onMessage.addListener(function(request,sender,sendResponse) {
   if(request=='theme'){
 	setColors();
 	return;
-  }
-  if (request == 'poll') {
+  } else if (request == 'poll') {
     pollProgress.start();
-  }
-  if (request == 'icons') {
+  } else if (request == 'icons') {
     [16, 19, 38, 128].forEach(function(s) {
       var canvas = drawIcon(s, 'n', '');
       chrome.downloads.download({
@@ -426,8 +424,16 @@ chrome.runtime.onMessage.addListener(function(request) {
       });
       canvas.parentNode.removeChild(canvas);
     });
-  }
-  if (isNumber(request.openWhenComplete)) {
+  } else if (isNumber(request.openWhenComplete)) {
     openWhenComplete(request.openWhenComplete);
   }
+  try {
+  		if(request.method=="getStorage"){
+  			sendResponse({data: localStorage[request.key]});
+  		} else if(request.method=="setStorage"){
+  			localStorage[request.key]=request.value;
+  			sendResponse({});
+  		}
+  } catch(e){}
+
 });
