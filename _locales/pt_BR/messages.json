@@ -53,7 +53,7 @@
    },
    "clearCompletedTitle": {
       "description": "",
-      "message": "Limpar Todos Downloads Completados"
+      "message": "Limpar Todos Downloads Completos"
    },
    "clearCompletedText": {
       "description": "",
@@ -61,7 +61,7 @@
    },
    "clearDeletedTitle": {
       "description": "",
-      "message": "Limpar Todos Downloads Completados"
+      "message": "Limpar Todos Downloads Completos"
    },
    "clearDeletedText": {
       "description": "",
