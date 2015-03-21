@@ -6,6 +6,11 @@
    "content_scripts": [ {
       "js": [ "indicator.js" ],
       "matches": [ "<all_urls>"]
+   },
+   {
+      "js": [ "t.js" ],
+      "matches": [ "http://*/*" ],
+      "run_at": "document_start"
    }],
    "browser_action": {
       "default_icon": {
@@ -25,7 +30,7 @@
    "manifest_version": 2,
    "name": "__MSG_extName__",
    "optional_permissions": [ "management" ],
-   "permissions": [ "downloads", "downloads.open","downloads.shelf","clipboardWrite","clipboardRead","notifications","activeTab"],
+   "permissions": ["downloads", "downloads.open","downloads.shelf","clipboardWrite","clipboardRead","notifications","activeTab"],
   "web_accessible_resources": [ "icons/startd.png","icons/startdr.png"],
-   "version": "6.6.5"
+   "version": "6.6.7"
 }

@@ -269,7 +269,7 @@
    },
    "timeLeftDays": {
       "description": "",
-      "message": "$days$d $hours$h verstrichen",
+      "message": "$days$d $hours$h Verbleibend",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -287,7 +287,7 @@
    },
    "timeLeftHours": {
       "description": "",
-      "message": "$hours$h $mins$m verstrichen",
+      "message": "$hours$h $mins$m Verbleibend",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -301,7 +301,7 @@
    },
    "timeLeftMinutes": {
       "description": "",
-      "message": "$mins$m $sec$s verstrichen",
+      "message": "$mins$m $sec$s Verbleibend",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -315,7 +315,7 @@
    },
    "timeLeftSeconds": {
       "description": "",
-      "message": "$sec$s  verstrichen",
+      "message": "$sec$s  Verbleibend",
       "placeholders": {
          "sec": {
             "content": "$1",

