@@ -42,6 +42,7 @@
 }
 
 body {
+    margin:;
     width: 400px;
     min-height: 250px;
     background-color: #fff;
@@ -61,6 +62,7 @@ width: 100%;
 
 .search_icon{
     float:left;
+    margin-left: 5px;
 }
 
 a {
@@ -128,6 +130,7 @@ a {
 .top_option {
     float: right;
     display: inline;
+    margin-right: 5px;
 }
 
 .icon {
@@ -159,6 +162,10 @@ a {
     vertical-align: bottom;
     height: 2em;
     display: block;
+    text-align: center;
+    background-color: aliceblue;
+    line-height: 2;
+    font-family: monospace;
 }
 
 #q {
