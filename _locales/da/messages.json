@@ -1,0 +1,334 @@
+{
+   "badChromeVersion": {
+      "description": "",
+      "message": "The downloads API is only available on dev and beta channels. Update your chrome here."
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "Åben"
+   },
+   "contextMenuOpenFolder": {
+      "description": "",
+      "message": "Vis i mappe"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "",
+      "message": "Gå til overførelsesiden"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "Kopiér overførelsesink"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "Fjern fra computeren"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "Fjern fra listen"
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "Bidrag til oversættelser"
+   },
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "Alle downloads"
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": "Indstillinger"
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "Anuller"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "Ryd alle igangværende overførelser"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "Ryd alle"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "Ryd alle færdige overførelser"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "Ryd fuldførte overførelser"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "Ryd slettede overførelser"
+   },
+   "clearDeletedText": {
+      "description": "",
+      "message": "Ryd slettede"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "Ryd alle mislykkede overførelser"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "Ryd mislykkede"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "Fjern fra listen"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "Fjernet"
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Hold styr på dine overførelser hurtigt og effektivt"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Download Manager"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "Vis link til udvidelser der overfører filer."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "Henter ældre downloads..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "Visse filer var overført af en udvidelse."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "Jan"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "Nov"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "Dec"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "Feb"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "Mar"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "Apr"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "Maj"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "Jun"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "Jul"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "Aug"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "Sep"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "Okt"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "Åben Overførelser"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "Overførelser"
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "Indstillinger"
+   },
+   "settingsText": {
+      "description": "",
+      "message": "Indstillinger"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "Åben"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "Åbner om $dage$d $timer$h",
+      "placeholders": {
+         "dage": {
+            "content": "$1",
+            "example": "2"
+         },
+         "timer": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "Åbner om et øjeblik"
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "Åbner om $timer$h $minutter$m",
+      "placeholders": {
+         "timer": {
+            "content": "$1",
+            "example": "23"
+         },
+         "minutter": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "Åbner om $minutter$m $sekunder$s",
+      "placeholders": {
+         "minutter": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sekunder": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": "  Åbner om $sekunder$s",
+      "placeholders": {
+         "sekunder": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "Pause"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "Henvis"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "Fjern fil"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "Fortsæt"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "Forsøg igen"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "Søger..."
+   },
+   "searching": {
+      "description": "",
+      "message": "Teleporterer en hel masse geders..."
+   },
+   "showInFolderTitle": {
+      "description": "Alt text for show in folder icon",
+      "message": "Vis i mappe"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "Vis ældre overførelser"
+   },
+   "tabTitle": {
+      "description": "tab title",
+      "message": "Overførelser"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "$days$d $hours$h left",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "færdigører..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "$hours$h $mins$m left",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "$mins$m $sec$s left",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "$sec$s left",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "Igen overførelser at vise."
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "Zero matches"
+   }
+}
