@@ -1,7 +1,7 @@
 {
    "badChromeVersion": {
       "description": "",
-      "message": "La descarga de la API esta sólo disponible en los canales DEV y BETA. Instala una versión de chrome de este canal."
+      "message": "La descarga de la API se encuentra disponible en los canales DEV y BETA. Instale Chrome en cualquiera de estos canales."
    },
    "contextMenuOpen": {
       "description": "",
@@ -9,11 +9,11 @@
    },
    "contextMenuOpenFolder": {
       "description": "",
-      "message": "Abrir Carpeta Contenedora"
+      "message": "Abrir carpeta contenedora"
    },
    "contextMenuGoToDownloadPage": {
       "description": "",
-      "message": "Ir a la página de descarga"
+      "message": "Ir al link de descarga"
    },
    "contextMenuDownloadLink": {
       "description": "",
@@ -21,11 +21,11 @@
    },
    "contextMenuDeleteFromDisk": {
       "description": "",
-      "message": "Borrar del disco"
+      "message": "Borrar del disco duro"
    },
    "contextMenuRemoveFromList": {
       "description": "",
-      "message": "Eliminar de la lista"
+      "message": "Borrar de la lista"
    },
    "translationTitle": {
       "description": "",
@@ -45,63 +45,63 @@
    },
    "clearAllTitle": {
       "description": "",
-      "message": "Eliminar descargas visibles"
+      "message": "Borrar todas las descargas de la lista"
    },
    "clearAllText": {
       "description": "",
-      "message": "Eliminar todo"
+      "message": "Borrar todo"
    },
    "clearCompletedTitle": {
       "description": "",
-      "message": "Eliminar descargas completadas"
+      "message": "Borrar todas las descargas completadas"
    },
    "clearCompletedText": {
       "description": "",
-      "message": "Eliminar completadas"
+      "message": "Borrar completadas"
    },
    "clearDeletedTitle": {
       "description": "",
-      "message": "Clear All Deleted Downloads"
+      "message": "Borrar todas las descargas eliminadas"
    },
    "clearDeletedText": {
       "description": "",
-      "message": "Eliminar borradas"
+      "message": "Borrar eliminadas"
    },
    "clearFailedTitle": {
       "description": "",
-      "message": "Eliminar descargas fallidas"
+      "message": "Borrar todas las descargas fallidas"
    },
    "clearFailedText": {
       "description": "",
-      "message": "Eliminar fallidas"
+      "message": "Borrar fallidas"
    },
    "eraseTitle": {
       "description": "",
-      "message": "Eliminar de la lista"
+      "message": "Borrar de la lista"
    },
    "errorRemoved": {
       "description": "",
-      "message": "Eliminada"
+      "message": "Descargas borradas"
    },
    "extDesc": {
-      "description": "Extension description",
-      "message": "Administra tus descargas de una manera rápida y facil"
+      "description": "Descripción de la extensión",
+      "message": "Administre sus descargas en una forma rápida y fácil"
    },
    "extName": {
-      "description": "Extension name",
+      "description": "Nombre de la extensión",
       "message": "Download Manager"
    },
    "grantManagementPermission": {
       "description": "",
-      "message": "Mostrar links a las extensiones que descargan los archivos."
+      "message": "Mostrar links a las extensiones que descargan archivos."
    },
    "loadingOlderDownloads": {
       "description": "",
-      "message": "Cargando antiguas descargas..."
+      "message": "Cargando descargas antiguas..."
    },
    "managementPermissionInfo": {
       "description": "",
-      "message": "Algunos archivos han sido descargados con una extensión."
+      "message": "Algunos archivos fueron descargados mediante una extensión."
    },
    "month0abbr": {
       "description": "",
@@ -153,7 +153,7 @@
    },
    "openDownloadsFolderTitle": {
       "description": "",
-      "message": "Abrir carpeta de descargas"
+      "message": "Abrir la carpeta de descargas"
    },
    "openDownloadsFolderText": {
       "description": "",
@@ -219,7 +219,7 @@
    },
    "openWhenCompleteSeconds": {
       "description": "",
-      "message": "  Abriendo en $sec$s",
+      "message": "Abriendo en $sec$s",
       "placeholders": {
          "sec": {
             "content": "$1",
@@ -237,7 +237,7 @@
    },
    "removeFileTitle": {
       "description": "",
-      "message": "Eliminar archivo"
+      "message": "Borrar archivo"
    },
    "resumeTitle": {
       "description": "",
@@ -253,10 +253,10 @@
    },
    "searching": {
       "description": "",
-      "message": "Teletransportando un gran número de cabras..."
+      "message": "Buscando resultados..."
    },
    "showInFolderTitle": {
-      "description": "Alt text for show in folder icon",
+      "description": "Mostrar texto alternativo en el icono de la carpeta",
       "message": "Mostrar en carpeta"
    },
    "showOlderDownloads": {
@@ -264,12 +264,12 @@
       "message": "Mostrar descargas antiguas"
    },
    "tabTitle": {
-      "description": "tab title",
+      "description": "Nombre de la ventana",
       "message": "Descargas"
    },
    "timeLeftDays": {
       "description": "",
-      "message": "quedan $days$d $hours$h",
+      "message": "faltan $days$d $hours$h",
       "placeholders": {
          "days": {
             "content": "$1",
@@ -287,7 +287,7 @@
    },
    "timeLeftHours": {
       "description": "",
-      "message": "quedan $hours$h $mins$m",
+      "message": "faltan $hours$h $mins$m",
       "placeholders": {
          "hours": {
             "content": "$1",
@@ -301,7 +301,7 @@
    },
    "timeLeftMinutes": {
       "description": "",
-      "message": "quedan $mins$m $sec$s",
+      "message": "faltan $mins$m $sec$s",
       "placeholders": {
          "mins": {
             "content": "$1",
@@ -315,7 +315,7 @@
    },
    "timeLeftSeconds": {
       "description": "",
-      "message": "quedan $sec$s",
+      "message": "faltan $sec$s",
       "placeholders": {
          "sec": {
             "content": "$1",
@@ -329,6 +329,6 @@
    },
    "zeroSearchResults": {
       "description": "",
-      "message": "No hay coincidencias."
+      "message": "No hay resultados."
    }
 }
