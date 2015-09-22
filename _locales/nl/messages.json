@@ -1,0 +1,334 @@
+{
+   "badChromeVersion": {
+      "description": "",
+      "message": "De downloads-API is alleen beschikbaar op dev en beta-kanalen. Update je Chrome browser hier."
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "Open"
+   },
+   "contextMenuOpenFolder": {
+      "description": "",
+      "message": "Open betreffence map"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "",
+      "message": "Ga naar Downloadpagina"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "Kopieer download link"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "Verwijder van harde schijf"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "Verwijder van lijst"
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "Help met vertalen"
+   },
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "Alle Downloads"
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": "Opties"
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "Annuleer"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "Wis alle zichtbare downloads"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "Wis alles"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "Wis alle voltooide downloads"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "Wissen voltooid"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "Wis alle verwijderde downloads"
+   },
+   "clearDeletedText": {
+      "description": "",
+      "message": "Wissen verwijderd"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "Wis alle gefaalde downloads"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "Wissen mislukt"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "Wis uit lijst"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "Verwijderd"
+   },
+   "extDesc": {
+      "description": "Extensie beschrijving",
+      "message": "Beheer je downloads in een snelle en gemakkelijke manier"
+   },
+   "extName": {
+      "description": "Extensie naam",
+      "message": "Download Beheer"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "Toon links naar extensies dat bestanden downloadt."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "Oudere Downloads Laden..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "Sommige bestanden werden gedownload door een extensie."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "Jan"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "Nov"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "Dec"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "Feb"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "Maa"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "Apr"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "Mei"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "Jun"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "Jul"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "Aug"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "Sep"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "Okt"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "Open Downloads Map"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "Downloads Map"
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "Instellingen"
+   },
+   "settingsText": {
+      "description": "",
+      "message": "Instellingen"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "Open"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "Opent in $days$d $hours$h",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "Opent over een ogenblik"
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "Opent in $hours$h $mins$m",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "Opent in $mins$m $sec$s",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": "  Opent in $sec$s",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "Pauzeer"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "Verwijzer"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "Verwijder bestand"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "Hervat"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "Opnieuw"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "Zoek..."
+   },
+   "searching": {
+      "description": "",
+      "message": "Bezig met zoeken..."
+   },
+   "showInFolderTitle": {
+      "description": "Alt text for show in folder icon",
+      "message": "Toon in map"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "Toon oudere downloads"
+   },
+   "tabTitle": {
+      "description": "tab title",
+      "message": "Downloads"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "$days$d $hours$h over",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "finaliseren..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "$hours$h $mins$m over",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "$mins$m $sec$s over",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "$sec$s over",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "Er zijn geen gedownloade bestanden."
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "Nul overeenkomsten"
+   }
+}
