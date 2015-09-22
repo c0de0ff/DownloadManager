@@ -1,7 +1,7 @@
 {
    "badChromeVersion": {
       "description": "",
-      "message": "La descarga de la API esta sólo disponible en los canales DEV y BETA. Instala una versión de chrome de este canal."
+      "message": "La descarga de la API esta solo disponible en los canales DEV y BETA. Instala una versión de chrome de este canal."
    },
    "contextMenuOpen": {
       "description": "",
@@ -85,7 +85,7 @@
    },
    "extDesc": {
       "description": "Extension description",
-      "message": "Administra tus descargas de una manera rápida y facil"
+      "message": "Administra tus descargas de una manera rápida y fácil"
    },
    "extName": {
       "description": "Extension name",
@@ -233,7 +233,7 @@
    },
    "referrerTitle": {
       "description": "",
-      "message": "Referrer"
+      "message": "Referente"
    },
    "removeFileTitle": {
       "description": "",
