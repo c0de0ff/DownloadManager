@@ -1,0 +1,334 @@
+{
+   "badChromeVersion": {
+      "description": "",
+      "message": "Downloads API je dostupná pouze pro dev a beta kanály. Aktualizujte si svůj Chrome zde."
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "Otevřít"
+   },
+   "contextMenuOpenFolder": {
+      "description": "",
+      "message": "Otevřít ve složce"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "",
+      "message": "Přejít na URL"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "Kopírovat URL"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "Ostranit z disku"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "Odstranit ze seznamu"
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "Pomoc s překlady"
+   },
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "Všechny stažené soubory"
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": "Možnosti"
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "Zrušit"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "Vyčistit všechny viditelné"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "Vyčistit vše"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "Vyčistit všechny dokončené"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "Vyčistit dokončené"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "Vyčistit všechny odstraněné"
+   },
+   "clearDeletedText": {
+      "description": "",
+      "message": "Vyčistit odstraněné"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "Vyčistit všechny chybné"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "Vyčistit chybné"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "Odstranit ze seznamu"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "Odstraněné"
+   },
+   "extDesc": {
+      "description": "Popis rozšíření",
+      "message": "Spravujte a prohlížejte vaše stahování rychle a snadno"
+   },
+   "extName": {
+      "description": "Název rozšíření",
+      "message": "Správce stahování"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "Zobrazit odkazy na rozšíření stahující soubory."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "Nahrávám starší stahování..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "Některé soubory byly stažené rozšířením."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "Leden"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "Listopad"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "Prosinec"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "Únor"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "Březen"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "Duben"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "Květen"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "Červen"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "Červenec"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "Srpen"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "Září"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "Říjen"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "Otevřít složku stažených souborů"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "Složka stažených souborů"
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "Nastavení"
+   },
+   "settingsText": {
+      "description": "",
+      "message": "Nastavení"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "Otevřít"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "Otevírám za $days$d $hours$h",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "Otevírám během chvilky"
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "Otevírám za $hours$h $mins$m",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "Otevírám za $mins$m $sec$s",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": "  Otevírám za $sec$s",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "Pozastavit"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "Odkazující"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "Odstranit soubor"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "Obnovit"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "Opakovat"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "Hledat..."
+   },
+   "searching": {
+      "description": "",
+      "message": "Teleportování hafo koz..."
+   },
+   "showInFolderTitle": {
+      "description": "Alt text pro ikonky zobrazení ve složce",
+      "message": "Zobrazit ve složce"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "Zobrazit starší"
+   },
+   "tabTitle": {
+      "description": "nadpis tabu",
+      "message": "Stahování"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "zbývá $days$d $hours$h",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "dokončuji..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "zbývá $hours$h $mins$m",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "zbývá $mins$m $sec$s",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "zbývá $sec$s",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "Nejsou zde žádne stažené soubory."
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "Žádné výsledky"
+   }
+}
