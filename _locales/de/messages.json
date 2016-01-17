@@ -1,7 +1,7 @@
 {
    "badChromeVersion": {
       "description": "",
-      "message": "Die Downloads API ist nur im Dev- und Beta-Channel verfügbar. Updaten Sie Ihren Chrome hier!"
+      "message": "Die Downloads API ist nur im Dev- und Beta-Channel verfügbar. Aktualisieren Sie Chrome hier!"
    },
    "contextMenuOpen": {
       "description": "",
@@ -9,15 +9,15 @@
    },
    "contextMenuOpenFolder": {
       "description": "",
-      "message": "Öffne Ordner"
+      "message": "Ordner öffnen"
    },
    "contextMenuGoToDownloadPage": {
       "description": "",
-      "message": "Zur Download Seite"
+      "message": "Zur Download-Seite"
    },
    "contextMenuDownloadLink": {
       "description": "",
-      "message": "Kopiere Download Link"
+      "message": "Kopiere Download-Link"
    },
    "contextMenuDeleteFromDisk": {
       "description": "",
@@ -157,7 +157,7 @@
    },
    "openDownloadsFolderText": {
       "description": "",
-      "message": "Downloads Verzeichnis"
+      "message": "Downloads-Verzeichnis"
    },
    "settingsTitle": {
       "description": "",
