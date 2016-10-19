@@ -1,0 +1,334 @@
+{
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "Összes letöltés"
+   },
+   "badChromeVersion": {
+      "description": "",
+      "message": "A letöltések API csak a fejlesztői, és a béta csatornákon elérhetőek. Frissítsd a Chrome-mod itt."
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "Mégse"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "Letöltési lista törlése"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "Letöltési lista teljes törlése"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "Elkészültek törlése"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "Minden elkészült letöltést töröl a listáról"
+   },
+   "clearDeletedText": {
+      "description": "",
+      "message": "Törölt letöltések törlése"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "Minden törölt letöltést töröl a listáról"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "Megszakadtak törlése"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "Minden megszakadt letöltést töröl a listáról"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "Törlés a rendszerből"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "Letöltési link másolása"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "Letöltési link megnyitása",
+      "message": "Letöltési link megnyitása"
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "Megnyitás"
+   },
+   "contextMenuOpenFolder": {
+      "description": "Tartalmazó mappa megnyitása",
+      "message": "Tart. mappa megnyitása"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "Törlés a listáról"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "Törlés a listáról"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "Eltávolítva"
+   },
+   "extDesc": {
+      "description": "Bővítmény leírása",
+      "message": "Manage and interact with your downloads in quick and easy way"
+   },
+   "extName": {
+      "description": "Bővítmény neve",
+      "message": "Letöltés Menedzser"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "Show links to extensions that download files."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "Régebbi letöltések betöltése..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "Some files were downloaded by an extension."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "Jan"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "Nov"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "Dec"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "Feb"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "Már"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "Ápr"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "Máj"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "Jún"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "Júl"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "Aug"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "Szep"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "Okt"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "Letöltési mappa"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "Letöltési mappa megnyitása"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "Megnyitás"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "Megnyitás: $days$n $hours$ó",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "Megnyitás csak egy pillanat"
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "Megnyitás: $hours$ó $mins$p",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "Megnyitás: $mins$p $sec$mp",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": "  Megnyitás: $sec$mp",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": "Beállítások"
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "Szünet"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "Hivatkozó"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "Fájl eltávolítása"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "Folytatás"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "Próbáld újra"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "Keresés..."
+   },
+   "searching": {
+      "description": "",
+      "message": "Teleporting lots of goats..."
+   },
+   "settingsText": {
+      "description": "",
+      "message": "Beállítások"
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "Beállítások megnyitása"
+   },
+   "showInFolderTitle": {
+      "description": "Alt text for show in folder icon",
+      "message": "Megjelenítés mappában"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "Régebbi letöltések megjelenítése"
+   },
+   "tabTitle": {
+      "description": "tab title",
+      "message": "Letöltések"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "$days$n $hours$ó hátra",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "befejezés..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "$hours$ó $mins$p hátra",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "$mins$p $sec$mp hátra",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "$sec$mp hátra",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "Segítség a fordításban"
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "Nincsenek letöltési elemek."
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "Nincs találat"
+   }
+}
