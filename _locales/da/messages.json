@@ -1,7 +1,7 @@
 {
    "badChromeVersion": {
       "description": "",
-      "message": "The downloads API is only available on dev and beta channels. Update your chrome here."
+      "message": "Overførsels-API'en er kun tilgængelig i dev og beta kanalerne. Opdater Chrome her."
    },
    "contextMenuOpen": {
       "description": "",
@@ -13,11 +13,11 @@
    },
    "contextMenuGoToDownloadPage": {
       "description": "",
-      "message": "Gå til overførelsesiden"
+      "message": "Gå til overførsler"
    },
    "contextMenuDownloadLink": {
       "description": "",
-      "message": "Kopiér overførelsesink"
+      "message": "Kopiér overførsels-link"
    },
    "contextMenuDeleteFromDisk": {
       "description": "",
@@ -33,7 +33,7 @@
    },
    "AllDownloadsTitle": {
       "description": "",
-      "message": "Alle downloads"
+      "message": "Alle overførsler"
    },
    "optionsTitle": {
       "description": "",
@@ -41,11 +41,11 @@
    },
    "cancelTitle": {
       "description": "",
-      "message": "Anuller"
+      "message": "Annuller"
    },
    "clearAllTitle": {
       "description": "",
-      "message": "Ryd alle igangværende overførelser"
+      "message": "Ryd alle igangværende overførsler"
    },
    "clearAllText": {
       "description": "",
@@ -53,15 +53,15 @@
    },
    "clearCompletedTitle": {
       "description": "",
-      "message": "Ryd alle færdige overførelser"
+      "message": "Ryd alle færdige overførsler"
    },
    "clearCompletedText": {
       "description": "",
-      "message": "Ryd fuldførte overførelser"
+      "message": "Ryd fuldførte overførsler"
    },
    "clearDeletedTitle": {
       "description": "",
-      "message": "Ryd slettede overførelser"
+      "message": "Ryd slettede overførsler"
    },
    "clearDeletedText": {
       "description": "",
@@ -69,7 +69,7 @@
    },
    "clearFailedTitle": {
       "description": "",
-      "message": "Ryd alle mislykkede overførelser"
+      "message": "Ryd alle mislykkede overførsler"
    },
    "clearFailedText": {
       "description": "",
@@ -85,7 +85,7 @@
    },
    "extDesc": {
       "description": "Extension description",
-      "message": "Hold styr på dine overførelser hurtigt og effektivt"
+      "message": "Få styr på dine overførsler, hurtigt og effektivt"
    },
    "extName": {
       "description": "Extension name",
@@ -93,11 +93,11 @@
    },
    "grantManagementPermission": {
       "description": "",
-      "message": "Vis link til udvidelser der overfører filer."
+      "message": "Vis links til udvidelser der overfører filer."
    },
    "loadingOlderDownloads": {
       "description": "",
-      "message": "Henter ældre downloads..."
+      "message": "Henter ældre overførsler..."
    },
    "managementPermissionInfo": {
       "description": "",
@@ -153,11 +153,11 @@
    },
    "openDownloadsFolderTitle": {
       "description": "",
-      "message": "Åben Overførelser"
+      "message": "Åbn Overførsler"
    },
    "openDownloadsFolderText": {
       "description": "",
-      "message": "Overførelser"
+      "message": "Overførsler"
    },
    "settingsTitle": {
       "description": "",
@@ -169,11 +169,11 @@
    },
    "openTitle": {
       "description": "",
-      "message": "Åben"
+      "message": "Åbn"
    },
    "openWhenCompleteDays": {
       "description": "",
-      "message": "Åbner om $dage$d $timer$h",
+      "message": "Åbner om $dage$d $timer$t",
       "placeholders": {
          "dage": {
             "content": "$1",
@@ -191,7 +191,7 @@
    },
    "openWhenCompleteHours": {
       "description": "",
-      "message": "Åbner om $timer$h $minutter$m",
+      "message": "Åbner om $timer$t $minutter$m",
       "placeholders": {
          "timer": {
             "content": "$1",
@@ -233,7 +233,7 @@
    },
    "referrerTitle": {
       "description": "",
-      "message": "Henvis"
+      "message": "Henvisende"
    },
    "removeFileTitle": {
       "description": "",
@@ -253,7 +253,7 @@
    },
    "searching": {
       "description": "",
-      "message": "Teleporterer en hel masse geders..."
+      "message": "Teleporterer en masse geder..."
    },
    "showInFolderTitle": {
       "description": "Alt text for show in folder icon",
@@ -261,21 +261,21 @@
    },
    "showOlderDownloads": {
       "description": "",
-      "message": "Vis ældre overførelser"
+      "message": "Vis ældre overførsler"
    },
    "tabTitle": {
       "description": "tab title",
-      "message": "Overførelser"
+      "message": "Overførsler"
    },
    "timeLeftDays": {
       "description": "",
-      "message": "$days$d $hours$h left",
+      "message": "$dage$d $timer$t tilbage",
       "placeholders": {
-         "days": {
+         "dage": {
             "content": "$1",
             "example": "2"
          },
-         "hours": {
+         "timer": {
             "content": "$2",
             "example": "23"
          }
@@ -287,13 +287,13 @@
    },
    "timeLeftHours": {
       "description": "",
-      "message": "$hours$h $mins$m left",
+      "message": "$timer$t $minutter$m tilbage",
       "placeholders": {
-         "hours": {
+         "timer": {
             "content": "$1",
             "example": "23"
          },
-         "mins": {
+         "minutter": {
             "content": "$2",
             "example": "59"
          }
@@ -301,13 +301,13 @@
    },
    "timeLeftMinutes": {
       "description": "",
-      "message": "$mins$m $sec$s left",
+      "message": "$minutter$m $sekunder$s tilbage",
       "placeholders": {
-         "mins": {
+         "minutter": {
             "content": "$1",
             "example": "59"
          },
-         "sec": {
+         "sekunder": {
             "content": "$2",
             "example": "59"
          }
@@ -315,9 +315,9 @@
    },
    "timeLeftSeconds": {
       "description": "",
-      "message": "$sec$s left",
+      "message": "$sekunder$s tilbage",
       "placeholders": {
-         "sec": {
+         "sekunder": {
             "content": "$1",
             "example": "59"
          }
@@ -325,10 +325,10 @@
    },
    "zeroItems": {
       "description": "",
-      "message": "Igen overførelser at vise."
+      "message": "Ingen overførsler."
    },
    "zeroSearchResults": {
       "description": "",
-      "message": "Zero matches"
+      "message": "Nul matches"
    }
 }
