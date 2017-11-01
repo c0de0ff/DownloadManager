@@ -1,0 +1,335 @@
+
+{
+   "badChromeVersion": {
+      "description": "",
+      "message": "다운로드 API는 dev와 beta 채널에서만 사용 가능합니다. 이곳에서 크롬을 업데이트 하세요."
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "열기"
+   },
+   "contextMenuOpenFolder": {
+      "description": "",
+      "message": "저장된 폴더 열기"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "",
+      "message": "다운로드 페이지로 가기"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "다운로드 링크 복사"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "파일 삭제"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "목록에서 삭제"
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "번역 도움말"
+   },
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "모든 다운로드"
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": ""
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "취소"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "보이는 모든 다운로드 취소"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "모두 제거"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "모든 완료된 항목 제거"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "제거 완료"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "삭제된 모든 항목 제거"
+   },
+   "clearDeletedText": {
+      "description": "",
+      "message": "삭제된 항목 제거"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "실패한 모든 항목 제거"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "실패한 항목 제거"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "목록에서 제거하기"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "제거됨"
+   },
+   "extDesc": {
+      "description": "확장프로그램 설명",
+      "message": "여러분의 다운로드 항목들을 쉽고 빠르게 관리해 줍니다."
+   },
+   "extName": {
+      "description": "확장프로그램 이름",
+      "message": "다운로드 매니저"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "파일을 다운로드하는 확장 프로그램에 대한 링크를 표시합니다."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "지난 다운로드 항목을 불러오는 중..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "몇몇 파일은 확장프로그램을 통해 다운로드 되었습니다."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "1월"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "11월"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "12월"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "2월"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "3월"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "4월"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "5월"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "6월"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "7월"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "8월"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "9월"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "10월"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "다운로드 폴더 열기"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "다운로드 "
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "설정"
+   },
+   "settingsText": {
+      "description": "",
+      "message": "설정"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "열기"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "$days$d $hours$h 후에 열립니다.",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "잠시 후에 열립니다."
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "$hours$h $mins$m 후에 열립니다.",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "$mins$m $sec$s 후에 열립니다.",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": " $sec$s 후에 열립니다.",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "일시정지"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "Referrer"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "파일 삭제"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "재개"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "재시도"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "탐색..."
+   },
+   "searching": {
+      "description": "",
+      "message": "겁나 많은 염소가 순간이동 하는 중..."
+   },
+   "showInFolderTitle": {
+      "description": "Alt text for show in folder icon",
+      "message": "폴더에서 보기"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "이전 다운로드 보기"
+   },
+   "tabTitle": {
+      "description": "tab title",
+      "message": "다운로드"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "$days$d $hours$h 남음",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "종료하는중..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "$hours$h $mins$m 남음",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "$mins$m $sec$s 남음",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "$sec$s 남음",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "다운로드 항목이 없습니다."
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "일치하는 항목이 없습니다."
+   }
+}
