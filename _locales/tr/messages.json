@@ -9,7 +9,7 @@
    },
    "contextMenuOpenFolder": {
       "description": "",
-      "message": "İçeren Klasörü Aç"
+      "message": "Bulunduğu Klasörü Aç"
    },
    "contextMenuGoToDownloadPage": {
       "description": "",
@@ -84,12 +84,12 @@
       "message": "Kaldırıldı"
    },
    "extDesc": {
-      "description": "Eklenti tanımı",
-      "message": "İndirmelerinizi hızlı ve kolay şekilde yönetir"
+      "description": "Eklenti Açıklaması",
+      "message": "İndirmelerinizi hızlı ve kolay şekilde yönetin ve etkileşimde bulunun."
    },
    "extName": {
       "description": "Eklenti adı",
-      "message": "Download Manager"
+      "message": "İndirme Yöneticisi"
    },
    "grantManagementPermission": {
       "description": "",
@@ -187,7 +187,7 @@
    },
    "openWhenCompleteFinishing": {
       "description": "",
-      "message": "Kısa sürede açılacak"
+      "message": "Kısa bir süre içinde açılacak"
    },
    "openWhenCompleteHours": {
       "description": "",
@@ -261,10 +261,10 @@
    },
    "showOlderDownloads": {
       "description": "",
-      "message": "Show Older Downloads"
+      "message": "Eski İndirilenleri Göster"
    },
    "tabTitle": {
-      "description": "tab title",
+      "description": "Sekme Başlığı",
       "message": "İndirilenler"
    },
    "timeLeftDays": {
