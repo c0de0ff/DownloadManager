@@ -33,7 +33,7 @@
    },
    "AllDownloadsTitle": {
       "description": "",
-      "message": "Всі завантаження"
+      "message": "Усі завантаження"
    },
    "optionsTitle": {
       "description": "",
@@ -45,7 +45,7 @@
    },
    "clearAllTitle": {
       "description": "",
-      "message": "Скасувати всі видимі завантаження"
+      "message": "Скасувати усі зображені завантаження"
    },
    "clearAllText": {
       "description": "",
@@ -77,7 +77,7 @@
    },
    "eraseTitle": {
       "description": "",
-      "message": "Очистка зі списку"
+      "message": "Очистити зі списку"
    },
    "errorRemoved": {
       "description": "",
@@ -93,11 +93,11 @@
    },
    "grantManagementPermission": {
       "description": "",
-      "message": "Показувати посилання до завантажуваних файлів."
+      "message": "Показувати посилання завантажуваних файлів."
    },
    "loadingOlderDownloads": {
       "description": "",
-      "message": "Завантажую попередні завантаження..."
+      "message": "Очікування попередніх завантажень..."
    },
    "managementPermissionInfo": {
       "description": "",
@@ -253,7 +253,7 @@
    },
    "searching": {
       "description": "",
-      "message": "Щось багацько..."
+      "message": "У пошуках..."
    },
    "showInFolderTitle": {
       "description": "Alt text for show in folder icon",
@@ -261,7 +261,7 @@
    },
    "showOlderDownloads": {
       "description": "",
-      "message": "Показати старі завантаження"
+      "message": "Показати старіші завантаження"
    },
    "tabTitle": {
       "description": "tab title",
@@ -283,7 +283,7 @@
    },
    "timeLeftFinishing": {
       "description": "",
-      "message": "Закінчення..."
+      "message": "Завершення..."
    },
    "timeLeftHours": {
       "description": "",
@@ -325,10 +325,10 @@
    },
    "zeroItems": {
       "description": "",
-      "message": "Нема завантажень."
+      "message": "Завантажень немає."
    },
    "zeroSearchResults": {
       "description": "",
-      "message": "Нема співпадінь."
+      "message": "Жодного збігу."
    }
 }
