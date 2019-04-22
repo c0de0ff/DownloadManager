@@ -1,0 +1,334 @@
+{
+   "badChromeVersion": {
+      "description": "",
+      "message": "Denna nerladdnings API är bara tillgänglig för utvecklar och beta versioner. Uppdatera chrome här."
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "Öppna"
+   },
+   "contextMenuOpenFolder": {
+      "description": "",
+      "message": "Öppna innehållets mapp"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "",
+      "message": "Gå till nerladdnings sidan"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "Kopiera nerladdningslänk"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "Ta bort från disk"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "Ta bort från listan"
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "Hjälp med översättning"
+   },
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "Alla nerladdningar"
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": "Inställningar"
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "Avbryt"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "Rensa alla synliga nerladdningar"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "Rensa allt"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "Rensa alla färdiga nerladdningar"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "Rensa färdiga nerladdningar"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "Rensa alla borttagna nerladdningar"
+   },
+   "clearDeletedText": {
+      "description": "",
+      "message": "Rensa borttagna nerladdningar"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "Rensa alla misslyckade nerladdningar"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "Rensa misslyckade nerladdningar"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "Rensa från lista"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "Borttagen"
+   },
+   "extDesc": {
+      "description": "Tilläggs beskrivning",
+      "message": "Hantera och interagera med dina nedladdningar på ett snabbt och enkelt sätt"
+   },
+   "extName": {
+      "description": "Tilläggs namn",
+      "message": "Download Manager"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "Visa länkar till tillägg som hämtar filer."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "Laddar äldre nerladdningar..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "Vissa filer var hämtade av ett tillägg."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "Jan"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "Nov"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "Dec"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "Feb"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "Mar"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "Apr"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "Maj"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "Jun"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "Jul"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "Aug"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "Sep"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "Okt"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "Öppna nedladdningsmapp"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "Nedladdningsmapp"
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "Inställningar"
+   },
+   "settingsText": {
+      "description": "",
+      "message": "Inställningar"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "Öppna"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "Öppnar om $days$d $hours$h",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "Öppnar om en stund"
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "Öppnar om $hours$h $mins$m",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "Öppnar om $mins$m $sec$s",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": "Öppnar om $sec$s",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "Pausa"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "Hänvisningsadress"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "Ta bort fil"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "Återuppta"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "Försök igen"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "Sök..."
+   },
+   "searching": {
+      "description": "",
+      "message": "Teleporterar ett gäng getter..."
+   },
+   "showInFolderTitle": {
+      "description": "Alternativ text för visa i mapp ikonen",
+      "message": "Visa i mapp"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "Visa äldre nerladdningar"
+   },
+   "tabTitle": {
+      "description": "Tabb titel",
+      "message": "Nerladdningar"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "$days$d $hours$h kvar",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "Slutför..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "$hours$h $mins$m kvar",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "$mins$m $sec$s kvar",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "$sec$s kvar",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "Det finns inga nedladdningsobjekt."
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "Inga matchningar"
+   }
+}
